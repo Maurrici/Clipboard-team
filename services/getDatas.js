@@ -1,11 +1,12 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
+const teamInfo = require("./teamInfo");
 
-(async () => {
+const getStaffs = async (id) => {
     const browser = await puppeteer.launch({headless: false});
     const page = await browser.newPage();
-    await page.goto('https://www.ogol.com.br/equipa.php?id=2239');
-    
+    await page.goto(`https://www.ogol.com.br/equipa.php?id=${id}`);
+
     const teamStaff = await page.evaluate( () => {
         let datasNodeList = document.querySelectorAll(".innerbox");
         let datasArray = [...datasNodeList].slice(0,4);
@@ -54,12 +55,26 @@ const fs = require("fs");
 
         return teamStaff;
     });
-    
-    console.log(teamStaff);
-
-    fs.writeFile("./database/teamTest.json", JSON.stringify(teamStaff, null, 2), (err) => {
-        if(err) throw new Error("An Error has ocurred");
-    });
 
     await browser.close();
+
+    return teamStaff;
+};
+
+(async () => {
+    try{
+        for (const team of teamInfo) {
+            team.staff = await getStaffs(team.id);
+        }
+
+        fs.writeFile("./database/teamsData.json", JSON.stringify(teamInfo, null, 2), (err) => {
+            if(err) throw new Error("An Error has ocurred in write file!");
+        });
+    }catch(err){
+        console.log("An error has ocurred in get datas!");
+        console.log(err.message);
+    }
 })();
+    
+
+
