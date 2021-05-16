@@ -1,6 +1,8 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
 const teamInfo = require("./teamInfo");
+const Team = require("../database/Team");
+const Player = require("../database/Player");
 
 const getStaffs = async (id) => {
     const browser = await puppeteer.launch({headless: false});
@@ -60,6 +62,7 @@ const getStaffs = async (id) => {
 
     return teamStaff;
 };
+
 
 (async () => {
     try{
