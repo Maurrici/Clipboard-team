@@ -12,7 +12,7 @@ const Player = connection.define("Player", {
         allowNull: false
     },
     position:{
-        type: Sequelize.TEXT,
+        type: Sequelize.INTEGER,
         allowNull: false
     }
 });

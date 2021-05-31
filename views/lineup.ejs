@@ -1,34 +1,21 @@
-<%- include("/partials/header") %>
+<%- include("./partials/header.ejs") %>
 
 <main>
     <div class="soccer-field free-move">
 
     </div>
     <div class="soccer-players ordened-move">
-        <div id="player-9" class="player ordened-element element-movable ui-widget-content" style="order: 9;">
-            <input class="form-control" type="text" name="number" value="9">
-            <input class="form-control" type="text" name="name">
-        </div>
-
-        <div id="player-10" class="player ordened-element element-movable ui-widget-content">
-            <div class="player-shirt">
-                <span class="number-shirt">12</span>
+        <% team.Players.forEach(item => { %>
+            <div id="<%= item.id %>" <%= "style=order:" + item.number + ";" %>  class="player ordened-element element-movable ui-widget-content">
+                <div class="player-shirt">
+                    <span class="number-shirt"><%= item.number %></span>
+                </div>
+                <div class="player-name">
+                    <span class="name-of-player"><%= item.name %></span>
+                </div>
             </div>
-            <div class="player-name">
-                <span class="name-of-player">Felipe Alves</span>
-            </div>
-        </div>
-
-        <div id="player-7" class="player ordened-element element-movable ui-widget-content" style="order: 7;">
-            <input class="form-control" type="text" name="number" value="7">
-            <input class="form-control" type="text" name="name">
-        </div>
-
-        <div id="player-1" class="player ordened-element element-movable ui-widget-content" style="order: 1;">
-            <input class="form-control" type="text" name="number" value="1">
-            <input class="form-control" type="text" name="name">
-        </div>
+        <% }) %>
     </div>
 </main>
 
-<%- include("/partials/footer") %>
+<%- include("./partials/footer.ejs") %>

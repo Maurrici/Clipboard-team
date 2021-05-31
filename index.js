@@ -1,5 +1,6 @@
 const express = require("express");
 const connection = require("./database/connection");
+const getDatas = require("./services/getDatas");
 const Team = require("./database/Team");
 const Player = require("./database/Player");
 
@@ -18,21 +19,31 @@ connection.authenticate()
     })
 
 // Routes
-app.get("/", (req, res) => {
-    res.render("lineup");
+app.get("/:id", (req, res) => {
+    let id = req.params.id;
+    Team.findOne({ where: { id: id}, include: [Player]}).then((team) => {
+        console.log(team);
+        if(team != null){
+            res.render("lineup", { team });
+        }
+    })
 });
 
 
 app.listen("3000", (err) => {
     if(err) console.log("An error has occurred!");
     else {
-        console.log("Server is running...");
-
         setInterval(() => {
-            let today = new Date();
-            if(today.getDay() == 0){
-                console.log("Hoje será atualizado o Banco de dados");
+            let now = new Date();
+            if(now.getHours() == 0){
+                console.log("Daily update of teams");
+                try{
+                    getDatas();
+                }catch(err){
+                    console.log("Ocurred an error in daily update.");
+                    console.log(err.message);
+                }   
             }
-        }, 5000);
+        }, 3600000);
     };
 });
