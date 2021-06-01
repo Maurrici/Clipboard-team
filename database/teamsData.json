@@ -3,203 +3,200 @@
     "id": 2227,
     "name": "América Futebol Clube",
     "shortName": "América Mineiro",
+    "colors": "#007f4c,#1a1a1a,#fbfbfb",
     "staff": {
       "goalkeepers": [
         {
-          "number": "-",
-          "name": "Matheus Cavichioli"
+          "number": 0,
+          "name": "Léo Lang"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Airton"
         },
         {
-          "number": "-",
-          "name": "Róbson"
+          "number": 0,
+          "name": "Matheus Cavichioli"
         },
         {
-          "number": "-",
-          "name": "Léo Lang"
+          "number": 0,
+          "name": "Róbson"
         }
       ],
       "defenders": [
         {
-          "number": "-",
-          "name": "Heitor"
-        },
-        {
-          "number": "-",
-          "name": "João Paulo "
-        },
-        {
-          "number": "-",
-          "name": "Arthur"
-        },
-        {
-          "number": "-",
-          "name": "Ricardo Silva"
-        },
-        {
-          "number": "-",
-          "name": "Diego Ferreira"
-        },
-        {
-          "number": "-",
-          "name": "Eduardo Bauermann"
-        },
-        {
-          "number": "-",
-          "name": "Zé Vitor"
-        },
-        {
-          "number": "-",
-          "name": "Anderson"
-        },
-        {
-          "number": "-",
-          "name": "Joseph"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Carlos Junio"
         },
         {
-          "number": "-",
-          "name": "Rodolfo Moisés"
+          "number": 0,
+          "name": "Ricardo Silva"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Eduardo"
         },
         {
-          "number": "-",
-          "name": "Thalys"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Einstein"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "Lucas Luan"
+        },
+        {
+          "number": 0,
+          "name": "Zé Vitor"
+        },
+        {
+          "number": 0,
+          "name": "João Paulo "
+        },
+        {
+          "number": 0,
+          "name": "Diego Ferreira"
+        },
+        {
+          "number": 0,
+          "name": "Eduardo Bauermann"
+        },
+        {
+          "number": 0,
+          "name": "Rodolfo Moisés"
+        },
+        {
+          "number": 0,
+          "name": "Thalys"
+        },
+        {
+          "number": 0,
           "name": "Vitor Hugo"
         },
         {
-          "number": "-",
-          "name": "Lucas Luan"
+          "number": 0,
+          "name": "Alan Ruschel"
         },
+        {
+          "number": 0,
+          "name": "Marlon"
+        },
+        {
+          "number": 0,
+          "name": "Anderson"
+        },
+        {
+          "number": 0,
+          "name": "Heitor"
+        },
+        null,
+        null,
         null
       ],
       "midfields": [
         {
-          "number": "-",
-          "name": "Matheus Santos"
-        },
-        {
-          "number": "-",
-          "name": "Alê"
-        },
-        {
-          "number": "-",
-          "name": "Ramon"
-        },
-        {
-          "number": "-",
-          "name": "Juninho "
-        },
-        {
-          "number": "-",
-          "name": "Sabino"
-        },
-        {
-          "number": "-",
-          "name": "Felipe Azevedo"
-        },
-        {
-          "number": "-",
-          "name": "Lucas Gabriel"
-        },
-        {
-          "number": "-",
-          "name": "Geovane"
-        },
-        {
-          "number": "-",
-          "name": "Gustavinho"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Bruno Nazário"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "Ramon"
+        },
+        {
+          "number": 0,
           "name": "Juninho Valoura"
         },
         {
-          "number": "-",
-          "name": "Flávio"
+          "number": 0,
+          "name": "Sabino"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "Alê"
+        },
+        {
+          "number": 0,
+          "name": "Juninho "
+        },
+        {
+          "number": 0,
+          "name": "Felipe Azevedo"
+        },
+        {
+          "number": 0,
+          "name": "Lucas Gabriel"
+        },
+        {
+          "number": 0,
+          "name": "Geovane"
+        },
+        {
+          "number": 0,
+          "name": "Gustavinho"
+        },
+        {
+          "number": 0,
           "name": "Zé Ricardo"
         },
+        null,
+        null,
         null
       ],
       "attacks": [
         {
-          "number": "-",
-          "name": "Marcelo Toscano"
-        },
-        {
-          "number": "-",
-          "name": "Ademir"
-        },
-        {
-          "number": "-",
-          "name": "Carlos Alberto"
-        },
-        {
-          "number": "-",
-          "name": "Kawê"
-        },
-        {
-          "number": "-",
-          "name": "Rodolfo"
-        },
-        {
-          "number": "-",
-          "name": "Léo Passos"
-        },
-        {
-          "number": "-",
-          "name": "Vitão"
-        },
-        {
-          "number": "-",
-          "name": "Yan Sasse"
-        },
-        {
-          "number": "-",
-          "name": "Luiz Fernando"
-        },
-        {
-          "number": "-",
-          "name": "Ighor Gabryel"
-        },
-        {
-          "number": "-",
-          "name": "Ribamar"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Leandro Carvalho"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "Rodolfo"
+        },
+        {
+          "number": 0,
           "name": "Lohan"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "Vitão"
+        },
+        {
+          "number": 0,
           "name": "Goldeson"
+        },
+        {
+          "number": 0,
+          "name": "Yan Sasse"
+        },
+        {
+          "number": 0,
+          "name": "Marcelo Toscano"
+        },
+        {
+          "number": 0,
+          "name": "Carlos Alberto"
+        },
+        {
+          "number": 0,
+          "name": "Ribamar"
+        },
+        {
+          "number": 0,
+          "name": "Kawê"
+        },
+        {
+          "number": 0,
+          "name": "Léo Passos"
+        },
+        {
+          "number": 0,
+          "name": "Ademir"
+        },
+        {
+          "number": 0,
+          "name": "Luiz Fernando"
+        },
+        {
+          "number": 0,
+          "name": "Ighor Gabryel"
         }
       ]
     }
@@ -208,254 +205,256 @@
     "id": 2230,
     "name": "Club Athletico Paranaense",
     "shortName": "Athletico Paranaense",
+    "colors": "#e1171d,#1b1c20,#faf6f7",
     "staff": {
       "goalkeepers": [
         {
-          "number": "-",
-          "name": "Bento"
-        },
-        {
-          "number": "-",
-          "name": "Santos"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Tiago Gomes"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Leo Linck"
         },
         {
-          "number": "-",
-          "name": "Anderson "
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Rokenedy"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "Anderson "
+        },
+        {
+          "number": 0,
+          "name": "Bento"
+        },
+        {
+          "number": 1,
+          "name": "Santos"
+        },
+        {
+          "number": 93,
           "name": "Jandrei"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Mycael"
         }
       ],
       "defenders": [
         {
-          "number": "-",
-          "name": "Abner Vinicius"
-        },
-        {
-          "number": "-",
-          "name": "Luan Patrick"
-        },
-        {
-          "number": "-",
-          "name": "Márcio Azevedo"
-        },
-        {
-          "number": "-",
-          "name": "Nicolas"
-        },
-        {
-          "number": "-",
-          "name": "Edu"
-        },
-        {
-          "number": "-",
-          "name": "Pedro Henrique"
-        },
-        {
-          "number": "-",
-          "name": "Zé Ivaldo"
-        },
-        {
-          "number": "-",
-          "name": "Lucas Halter"
-        },
-        {
-          "number": "-",
-          "name": "Marcinho"
-        },
-        {
-          "number": "-",
-          "name": "Thiago Heleno"
-        },
-        {
-          "number": "-",
-          "name": "Vialle"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Joao Pedro"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "Edu"
+        },
+        {
+          "number": 0,
+          "name": "Lucas Halter"
+        },
+        {
+          "number": 0,
+          "name": "Vialle"
+        },
+        {
+          "number": 0,
           "name": "Khellven"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "Gabriel Fornari"
+        },
+        {
+          "number": 0,
+          "name": "Luan Patrick"
+        },
+        {
+          "number": 5,
+          "name": "Marcinho"
+        },
+        {
+          "number": 6,
+          "name": "Márcio Azevedo"
+        },
+        {
+          "number": 8,
+          "name": "Nicolas"
+        },
+        {
+          "number": 16,
+          "name": "Abner Vinícius"
+        },
+        {
+          "number": 23,
           "name": "Felipe Aguilar"
         },
         {
-          "number": "-",
-          "name": "Gabriel Fornari"
+          "number": 27,
+          "name": "Zé Ivaldo"
+        },
+        {
+          "number": 34,
+          "name": "Pedro Henrique"
+        },
+        {
+          "number": 44,
+          "name": "Thiago Heleno"
         }
       ],
       "midfields": [
         {
-          "number": "-",
-          "name": "Richard"
-        },
-        {
-          "number": "-",
-          "name": "Jádson"
-        },
-        {
-          "number": "-",
-          "name": "Bruno Leite"
-        },
-        {
-          "number": "-",
-          "name": "Christian"
-        },
-        {
-          "number": "-",
-          "name": "João Pedro"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Denner"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "João Victor"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Kawan "
         },
         {
-          "number": "-",
-          "name": "Erick"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Raimar "
         },
         {
-          "number": "-",
-          "name": "Fernando Canesin"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Geovane"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "Ataíde"
+        },
+        {
+          "number": 0,
           "name": "Matheus Anjos"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Daniel Martins"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "João Pedro Moura"
+        },
+        {
+          "number": 0,
           "name": "Dudu"
         },
         {
-          "number": "-",
-          "name": "Nikão"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Pierre"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Ramon"
         },
         {
-          "number": "-",
-          "name": "Léo Cittadini"
-        },
-        {
-          "number": "3",
+          "number": 3,
           "name": "Lucho González"
         },
         {
-          "number": "15",
+          "number": 11,
+          "name": "Nikão"
+        },
+        {
+          "number": 15,
           "name": "Jaime Alvarado"
+        },
+        {
+          "number": 18,
+          "name": "Léo Cittadini"
+        },
+        {
+          "number": 25,
+          "name": "Richard"
+        },
+        {
+          "number": 26,
+          "name": "Erick"
+        },
+        {
+          "number": 55,
+          "name": "Fernando Canesin"
+        },
+        {
+          "number": 70,
+          "name": "Bruno Leite"
+        },
+        {
+          "number": 88,
+          "name": "Christian"
+        },
+        {
+          "number": 91,
+          "name": "Jádson"
         }
       ],
       "attacks": [
         {
-          "number": "-",
-          "name": "Iago"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Jajá"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Matheus Babi"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Vinicius Kaue"
         },
         {
-          "number": "-",
-          "name": "Vitinho"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Kleiton "
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Reinaldo"
         },
         {
-          "number": "-",
-          "name": "Renato Kayzer"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Jáderson"
         },
         {
-          "number": "-",
-          "name": "Bissoli"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Vinicius Mingotti"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Julimar"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Yago"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Elias Carioca"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Renan Soares"
         },
         {
-          "number": "96",
+          "number": 0,
+          "name": "Iago"
+        },
+        {
+          "number": 28,
+          "name": "Vitinho"
+        },
+        {
+          "number": 79,
+          "name": "Renato Kayzer"
+        },
+        {
+          "number": 96,
           "name": "Carlos Eduardo"
-        }
+        },
+        null
       ]
     }
   },
@@ -463,193 +462,199 @@
     "id": 3129,
     "name": "Atlético Clube Goianiense",
     "shortName": "Atlético Goianiense",
+    "colors": "#d72a09,#000000,#ffffff",
     "staff": {
       "goalkeepers": [
         {
-          "number": "-",
+          "number": 0,
           "name": "Kozlinski"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Leonardo"
         },
         {
-          "number": "-",
-          "name": "Márcio Defendi Júnior"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Fernando Miguel"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Breno Boeno "
+        },
+        {
+          "number": 0,
+          "name": "Márcio Defendi Júnior"
         }
       ],
       "defenders": [
         {
-          "number": "-",
-          "name": "Nathan Silva"
-        },
-        {
-          "number": "-",
-          "name": "Arnaldo"
-        },
-        {
-          "number": "-",
-          "name": "Oliveira"
-        },
-        {
-          "number": "-",
-          "name": "Danilo"
-        },
-        {
-          "number": "-",
-          "name": "Lucas"
-        },
-        {
-          "number": "-",
-          "name": "Dudu"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Natanael"
         },
         {
-          "number": "-",
-          "name": "Igor Cariús"
+          "number": 0,
+          "name": "Arnaldo"
         },
         {
-          "number": "-",
-          "name": "Carlos Henrique"
+          "number": 0,
+          "name": "Danilo"
         },
         {
-          "number": "-",
-          "name": "Victor Hugo"
+          "number": 0,
+          "name": "Lucas"
         },
         {
-          "number": "-",
-          "name": "Éder Ferreira"
+          "number": 0,
+          "name": "Dudu"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Michel"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "Igor Cariús"
+        },
+        {
+          "number": 0,
+          "name": "Nathan Silva"
+        },
+        {
+          "number": 0,
+          "name": "Carlos Henrique"
+        },
+        {
+          "number": 0,
+          "name": "Victor Hugo"
+        },
+        {
+          "number": 0,
+          "name": "Lucas Oliveira"
+        },
+        {
+          "number": 0,
+          "name": "Éder Ferreira"
+        },
+        {
+          "number": 0,
           "name": "Gabriel"
         },
         {
-          "number": "-",
-          "name": "Eduardo"
+          "number": 0,
+          "name": "Odair Marciano "
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Flavio Junior"
         },
-        {
-          "number": "-",
-          "name": "Odair Marciano "
-        }
+        null
       ],
       "midfields": [
         {
-          "number": "-",
-          "name": "André"
+          "number": 0,
+          "name": "André Lima"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "João Aleluia"
         },
         {
-          "number": "-",
-          "name": "Rafael Miyasaki"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Willian Maranhão"
         },
         {
-          "number": "-",
-          "name": "Marlon Freitas"
-        },
-        {
-          "number": "-",
-          "name": "Zé Henrique"
-        },
-        {
-          "number": "-",
-          "name": "João Paulo"
-        },
-        {
-          "number": "-",
-          "name": "Baralhas"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Matheus Oliveira"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "João Paulo"
+        },
+        {
+          "number": 0,
+          "name": "Baralhas"
+        },
+        {
+          "number": 0,
+          "name": "Marlon Freitas"
+        },
+        {
+          "number": 0,
+          "name": "Mauricio "
+        },
+        {
+          "number": 0,
           "name": "Atanasio"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "Rafael Miyasaki"
+        },
+        {
+          "number": 0,
           "name": "Kaio"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Rodrigues"
         },
         {
-          "number": "-",
-          "name": "Mauricio "
+          "number": 0,
+          "name": "Zé Henrique"
         },
         null
       ],
       "attacks": [
         {
-          "number": "-",
-          "name": "Victor Paraíba"
-        },
-        {
-          "number": "-",
-          "name": "André Luís"
-        },
-        {
-          "number": "-",
-          "name": "Janderson"
-        },
-        {
-          "number": "-",
-          "name": "Arthur Gomes"
-        },
-        {
-          "number": "-",
-          "name": "Pablo Dyego"
-        },
-        {
-          "number": "-",
-          "name": "Roberson"
-        },
-        {
-          "number": "-",
-          "name": "Kevin Brocador"
-        },
-        {
-          "number": "-",
-          "name": "Danilo Gomes"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Zé Roberto"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "Riquelme"
+        },
+        {
+          "number": 0,
+          "name": "Victor Paraíba"
+        },
+        {
+          "number": 0,
+          "name": "André Luís"
+        },
+        {
+          "number": 0,
+          "name": "Janderson"
+        },
+        {
+          "number": 0,
+          "name": "Arthur Gomes"
+        },
+        {
+          "number": 0,
+          "name": "Pablo Dyego"
+        },
+        {
+          "number": 0,
+          "name": "Rian"
+        },
+        {
+          "number": 0,
+          "name": "Kevin"
+        },
+        {
+          "number": 0,
+          "name": "Roberson"
+        },
+        {
+          "number": 0,
+          "name": "Danilo Magalhães"
+        },
+        {
+          "number": 0,
           "name": "Indio"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Yan Maranhão"
         }
       ]
@@ -659,178 +664,173 @@
     "id": 2229,
     "name": "Clube Atlético Mineiro",
     "shortName": "Atlético Mineiro",
+    "colors": "#231f20,#fefefe",
     "staff": {
       "goalkeepers": [
         {
-          "number": "22",
+          "number": 22,
           "name": "Éverson"
         },
         {
-          "number": "31",
+          "number": 31,
           "name": "Matheus Mendes"
         },
         {
-          "number": "32",
+          "number": 32,
           "name": "Rafael"
         },
         {
-          "number": "34",
+          "number": 34,
           "name": "Jean"
         },
         null
       ],
       "defenders": [
         {
-          "number": "2",
+          "number": 2,
           "name": "Guga"
         },
         {
-          "number": "3",
+          "number": 3,
           "name": "Júnior Alonso"
         },
         {
-          "number": "4",
+          "number": 4,
           "name": "Réver"
         },
         {
-          "number": "6",
+          "number": 6,
           "name": "Dodô"
         },
         {
-          "number": "13",
+          "number": 13,
           "name": "Guilherme Arana"
         },
         {
-          "number": "16",
+          "number": 16,
           "name": "Igor Rabello"
         },
         {
-          "number": "25",
+          "number": 25,
           "name": "Mariano "
         },
         {
-          "number": "30",
+          "number": 30,
           "name": "Gabriel"
         },
         {
-          "number": "39",
-          "name": "Talison"
-        },
-        {
-          "number": "40",
+          "number": 40,
           "name": "Bueno"
         },
         {
-          "number": "42",
-          "name": "Kevin"
-        },
-        {
-          "number": "45",
+          "number": 45,
           "name": "Micael"
         },
         {
-          "number": "49",
+          "number": 49,
           "name": "Matheus Lima"
-        }
+        },
+        null,
+        null
       ],
       "midfields": [
         {
-          "number": "8",
+          "number": 8,
           "name": "Jair "
         },
         {
-          "number": "15",
+          "number": 15,
           "name": "Matías Zaracho"
         },
         {
-          "number": "19",
+          "number": 19,
           "name": "Dylan Borrero"
         },
         {
-          "number": "20",
+          "number": 20,
           "name": "Hyoran"
         },
         {
-          "number": "21",
+          "number": 21,
           "name": "Alan Franco "
         },
         {
-          "number": "23",
+          "number": 23,
           "name": "Nathan"
         },
         {
-          "number": "26",
+          "number": 26,
           "name": "Nacho Fernández"
         },
         {
-          "number": "27",
+          "number": 27,
           "name": "Calebe"
         },
         {
-          "number": "29",
+          "number": 29,
           "name": "Allan"
         },
         {
-          "number": "37",
+          "number": 37,
           "name": "Tchê Tchê"
         },
         {
-          "number": "41",
+          "number": 41,
           "name": "Neto"
         },
         {
-          "number": "46",
+          "number": 46,
           "name": "Iago"
         },
         {
-          "number": "50",
+          "number": 50,
           "name": "Rubens"
         }
       ],
       "attacks": [
         {
-          "number": "7",
+          "number": 7,
           "name": "Hulk"
         },
         {
-          "number": "9",
+          "number": 9,
           "name": "Diego Tardelli"
         },
         {
-          "number": "10",
+          "number": 10,
           "name": "Eduardo Vargas"
         },
         {
-          "number": "11",
+          "number": 11,
           "name": "Keno"
         },
         {
-          "number": "18",
+          "number": 18,
           "name": "Eduardo Sasha"
         },
         {
-          "number": "33",
+          "number": 33,
           "name": "Sávio"
         },
         {
-          "number": "38",
+          "number": 38,
           "name": "Marrony"
         },
         {
-          "number": "44",
-          "name": "Felipe"
-        },
-        {
-          "number": "47",
-          "name": "Júlio Cesar"
-        },
-        {
-          "number": "48",
+          "number": 48,
           "name": "Echaporã"
         },
         {
-          "number": "70",
+          "number": 70,
           "name": "Jefferson Savarino"
+        },
+        {
+          "number": 44,
+          "name": "Felipe"
+        },
+        {
+          "number": 47,
+          "name": "Júlio Cesar"
         }
       ]
     }
@@ -839,256 +839,254 @@
     "id": 2231,
     "name": "Esporte Clube Bahia",
     "shortName": "Bahia",
+    "colors": "#d20000,#002f85,#eeeeee",
     "staff": {
       "goalkeepers": [
         {
-          "number": "-",
-          "name": "Leandro"
-        },
-        {
-          "number": "-",
-          "name": "Cesar"
-        },
-        {
-          "number": "1",
+          "number": 1,
           "name": "Douglas Friedrich"
         },
         {
-          "number": "26",
+          "number": 24,
+          "name": "Leandro"
+        },
+        {
+          "number": 26,
           "name": "Júnior"
         },
         {
-          "number": "32",
+          "number": 32,
           "name": "Matheus Teixeira"
         },
         {
-          "number": "77",
+          "number": 77,
           "name": "Mateus Claus"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "Cesar"
+        },
+        {
+          "number": 0,
           "name": "Vinicius "
         }
       ],
       "defenders": [
         {
-          "number": "-",
-          "name": "Sérgio Baiano"
-        },
-        {
-          "number": "-",
-          "name": "Éverson"
-        },
-        {
-          "number": "-",
-          "name": "Filipinho"
-        },
-        {
-          "number": "-",
-          "name": "Douglas Borel"
-        },
-        {
-          "number": "-",
-          "name": "Mayk"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Wesley"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Gustavo Henrique"
         },
         {
-          "number": "-",
-          "name": "Renan Guedes"
+          "number": 0,
+          "name": "Sérgio Baiano"
         },
         {
-          "number": "2",
+          "number": 0,
+          "name": "Éverson"
+        },
+        {
+          "number": 0,
+          "name": "Filipinho"
+        },
+        {
+          "number": 0,
+          "name": "Douglas Borel"
+        },
+        {
+          "number": 0,
+          "name": "Mayk"
+        },
+        {
+          "number": 2,
           "name": "Nino Paraíba"
         },
         {
-          "number": "3",
+          "number": 3,
           "name": "Luiz Otávio"
         },
         {
-          "number": "4",
+          "number": 4,
           "name": "Anderson Martins"
         },
         {
-          "number": "5",
+          "number": 5,
           "name": "Germán Conti"
         },
         {
-          "number": "13",
+          "number": 13,
           "name": "Ignácio "
         },
         {
-          "number": "14",
+          "number": 14,
           "name": "Raniele"
         },
         {
-          "number": "23",
+          "number": 23,
           "name": "João Pedro"
         },
         {
-          "number": "28",
+          "number": 28,
           "name": "Lucas Fonseca"
         },
         {
-          "number": "29",
+          "number": 29,
           "name": "Juninho Capixaba"
         },
         {
-          "number": "40",
+          "number": 40,
           "name": "Juninho"
         },
         {
-          "number": "79",
+          "number": 42,
+          "name": "Renan Guedes"
+        },
+        {
+          "number": 79,
           "name": "Matheus Bahia"
         }
       ],
       "midfields": [
         {
-          "number": "-",
-          "name": "Jeferson Douglas"
-        },
-        {
-          "number": "-",
-          "name": "Leozidio"
-        },
-        {
-          "number": "-",
-          "name": "Paulo Henrique"
-        },
-        {
-          "number": "-",
-          "name": "Caio Mello"
-        },
-        {
-          "number": "-",
-          "name": "Jeremias"
-        },
-        {
-          "number": "-",
-          "name": "Thonny Anderson"
-        },
-        {
-          "number": "-",
-          "name": "Gabriel Moura"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Bruno Camilo"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Gregory"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Luiz Felipe"
         },
         {
-          "number": "8",
+          "number": 0,
+          "name": "Jeferson Douglas"
+        },
+        {
+          "number": 0,
+          "name": "Leozidio"
+        },
+        {
+          "number": 0,
+          "name": "Paulo Henrique"
+        },
+        {
+          "number": 0,
+          "name": "Caio Mello"
+        },
+        {
+          "number": 0,
+          "name": "Jeremias"
+        },
+        {
+          "number": 8,
           "name": "Daniel"
         },
         {
-          "number": "10",
+          "number": 10,
           "name": "Rodriguinho"
         },
         {
-          "number": "15",
+          "number": 15,
           "name": "Índio Ramírez"
         },
         {
-          "number": "16",
+          "number": 16,
           "name": "Thaciano"
         },
         {
-          "number": "20",
+          "number": 20,
           "name": "Matheus Galdezani"
         },
         {
-          "number": "22",
+          "number": 22,
           "name": "Jonas"
         },
         {
-          "number": "34",
+          "number": 34,
           "name": "Lucas Araújo"
         },
         {
-          "number": "35",
+          "number": 35,
           "name": "Edson"
         },
         {
-          "number": "45",
+          "number": 45,
           "name": "Patrick"
         },
         {
-          "number": "47",
+          "number": 47,
           "name": "Pablo "
         },
         {
-          "number": "57",
+          "number": 57,
           "name": "Chrystian Barletta"
+        },
+        {
+          "number": 0,
+          "name": "Gabriel Moura"
         },
         null,
         null
       ],
       "attacks": [
         {
-          "number": "-",
+          "number": 0,
           "name": "Ronaldo "
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Daniel Penha"
         },
         {
-          "number": "-",
-          "name": "Maycon Douglas"
+          "number": 0,
+          "name": "Gustavo Custódio"
         },
         {
-          "number": "-",
-          "name": "Gustavo"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Gustavo Rodrigues"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Daniel Cruz"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Fabrício"
         },
         {
-          "number": "7",
+          "number": 7,
           "name": "Rossi"
         },
         {
-          "number": "9",
+          "number": 9,
           "name": "Gilberto"
         },
         {
-          "number": "11",
+          "number": 11,
           "name": "Óscar Ruiz"
         },
         {
-          "number": "21",
+          "number": 19,
+          "name": "Thonny Anderson"
+        },
+        {
+          "number": 21,
           "name": "Alesson"
         },
         {
-          "number": "39",
-          "name": "Gabriel Novaes"
+          "number": 31,
+          "name": "Maycon Douglas"
         },
         {
-          "number": "49",
+          "number": 49,
           "name": "Marcelo Ryan"
         },
+        null,
         null
       ]
     }
@@ -1097,171 +1095,252 @@
     "id": 3183,
     "name": "Ceará Sporting Club",
     "shortName": "Ceará",
+    "colors": "#000000,#e7e7e7",
     "staff": {
       "goalkeepers": [
         {
-          "number": "1",
+          "number": 0,
+          "name": "Paulo Filho"
+        },
+        {
+          "number": 0,
+          "name": "Davi"
+        },
+        {
+          "number": 1,
           "name": "João Ricardo"
         },
         {
-          "number": "50",
+          "number": 50,
           "name": "Vinícius Machado"
         },
         {
-          "number": "67",
+          "number": 67,
           "name": "André Luiz"
         },
         {
-          "number": "91",
+          "number": 91,
           "name": "Richard"
         }
       ],
       "defenders": [
         {
-          "number": "3",
+          "number": 0,
+          "name": "Café"
+        },
+        {
+          "number": 0,
+          "name": "Jefferson Maciel "
+        },
+        {
+          "number": 0,
+          "name": "Atila"
+        },
+        {
+          "number": 0,
+          "name": "Vitão"
+        },
+        {
+          "number": 0,
+          "name": "Natan"
+        },
+        {
+          "number": 3,
           "name": "Messias"
         },
         {
-          "number": "6",
+          "number": 6,
           "name": "Bruno Pacheco"
         },
         {
-          "number": "13",
+          "number": 13,
           "name": "Luiz Otávio"
         },
         {
-          "number": "15",
+          "number": 15,
           "name": "Gabriel Lacerda"
         },
         {
-          "number": "22",
+          "number": 22,
           "name": "Alan"
         },
         {
-          "number": "27",
-          "name": "Marcos Ytalo"
+          "number": 27,
+          "name": "Buiú"
         },
         {
-          "number": "33",
+          "number": 33,
           "name": "Jordan"
         },
         {
-          "number": "44",
+          "number": 44,
           "name": "Klaus"
         },
         {
-          "number": "66",
+          "number": 66,
           "name": "Alessandro"
         },
         {
-          "number": "94",
+          "number": 94,
           "name": "Gabriel Dias"
         },
         null
       ],
       "midfields": [
         {
-          "number": "5",
+          "number": 0,
+          "name": "Marco Antônio"
+        },
+        {
+          "number": 0,
+          "name": "Rubens"
+        },
+        {
+          "number": 0,
+          "name": "Pablo Danrley"
+        },
+        {
+          "number": 0,
+          "name": "Léo Rafael"
+        },
+        {
+          "number": 0,
+          "name": "Marcos Brazion"
+        },
+        {
+          "number": 0,
+          "name": "Matheus Índio"
+        },
+        {
+          "number": 0,
+          "name": "Denilson Santos"
+        },
+        {
+          "number": 0,
+          "name": "Patrick Maranhão"
+        },
+        {
+          "number": 5,
           "name": "William Oliveira"
         },
         {
-          "number": "8",
+          "number": 8,
           "name": "Fernando Sobral"
         },
         {
-          "number": "16",
+          "number": 16,
           "name": "Jorginho"
         },
         {
-          "number": "18",
-          "name": "David"
-        },
-        {
-          "number": "19",
+          "number": 19,
           "name": "Fabinho"
         },
         {
-          "number": "20",
-          "name": "Willian Oliveira"
+          "number": 20,
+          "name": "Oliveira"
         },
         {
-          "number": "21",
+          "number": 21,
           "name": "Geovane"
         },
         {
-          "number": "25",
+          "number": 25,
           "name": "Marlon"
         },
         {
-          "number": "29",
+          "number": 29,
           "name": "Vina"
         },
         {
-          "number": "31",
+          "number": 31,
           "name": "Pedro Naressi"
         },
         {
-          "number": "35",
+          "number": 35,
           "name": "Charles"
         },
         {
-          "number": "45",
+          "number": 45,
           "name": "Lima"
         },
         {
-          "number": "70",
+          "number": 70,
           "name": "Kelvyn"
         },
         {
-          "number": "74",
+          "number": 74,
           "name": "Marthã"
         },
         {
-          "number": "90",
+          "number": 90,
           "name": "Felipe Silva "
+        },
+        {
+          "number": 0,
+          "name": "Tiaguinho"
+        },
+        {
+          "number": 18,
+          "name": "David"
         },
         null,
         null
       ],
       "attacks": [
         {
-          "number": "7",
+          "number": 0,
+          "name": "Jordan"
+        },
+        {
+          "number": 0,
+          "name": "André Magno"
+        },
+        {
+          "number": 0,
+          "name": "Rafael Almada "
+        },
+        {
+          "number": 0,
+          "name": "Victor Castro"
+        },
+        {
+          "number": 7,
           "name": "Yony González"
         },
         {
-          "number": "9",
+          "number": 9,
           "name": "Jael"
         },
         {
-          "number": "10",
+          "number": 10,
           "name": "Stiven Mendoza"
         },
         {
-          "number": "11",
+          "number": 11,
           "name": "Felipe Vizeu"
         },
         {
-          "number": "37",
+          "number": 37,
           "name": "Rick"
         },
         {
-          "number": "40",
+          "number": 40,
           "name": "Vítor Jacaré"
         },
         {
-          "number": "52",
+          "number": 52,
           "name": "João Victor"
         },
         {
-          "number": "73",
+          "number": 73,
           "name": "Saulo Mineiro"
         },
         {
-          "number": "89",
+          "number": 89,
           "name": "Cléber"
         },
         {
-          "number": "96",
+          "number": 96,
           "name": "Luan"
         },
         null
@@ -1272,183 +1351,189 @@
     "id": 3195,
     "name": "Associação Chapecoense de Futebol",
     "shortName": "Chapecoense",
+    "colors": "#418465,#ebebeb",
     "staff": {
       "goalkeepers": [
         {
-          "number": "1",
+          "number": 1,
           "name": "Keiller"
         },
         {
-          "number": "12",
+          "number": 12,
           "name": "Igor Campos"
         },
         {
-          "number": "18",
+          "number": 18,
           "name": "Pavan"
         },
         {
-          "number": "31",
+          "number": 31,
           "name": "João Paulo"
         },
         {
-          "number": "89",
+          "number": 89,
           "name": "Vagner"
         },
         {
-          "number": "98",
+          "number": 98,
           "name": "Tiepo"
         }
       ],
       "defenders": [
         {
-          "number": "2",
+          "number": 2,
           "name": "Matheus Ribeiro"
         },
         {
-          "number": "3",
+          "number": 3,
           "name": "Laércio "
         },
         {
-          "number": "4",
+          "number": 4,
           "name": "Kadu"
         },
         {
-          "number": "6",
+          "number": 6,
           "name": "Busanello"
         },
         {
-          "number": "16",
+          "number": 16,
           "name": "Tiago Coser"
         },
         {
-          "number": "27",
+          "number": 27,
           "name": "Felipe Santana"
         },
         {
-          "number": "29",
+          "number": 29,
           "name": "João Cesco"
         },
         {
-          "number": "30",
+          "number": 30,
           "name": "Ezequiel "
         },
         {
-          "number": "33",
+          "number": 33,
           "name": "Joílson"
         },
         {
-          "number": "34",
+          "number": 34,
           "name": "Derlan"
         },
         {
-          "number": "36",
+          "number": 36,
           "name": "Brayan"
         },
         {
-          "number": "43",
+          "number": 43,
           "name": "Hiago"
         },
         {
-          "number": "80",
+          "number": 80,
           "name": "Mancha"
         },
         null
       ],
       "midfields": [
         {
-          "number": "-",
-          "name": "Léo Gomes"
+          "number": 0,
+          "name": "Régis"
         },
         {
-          "number": "5",
+          "number": 5,
           "name": "Moisés Ribeiro"
         },
         {
-          "number": "8",
+          "number": 8,
           "name": "Alan Santos"
         },
         {
-          "number": "10",
+          "number": 10,
           "name": "Foguinho"
         },
         {
-          "number": "15",
+          "number": 15,
           "name": "Ronei"
         },
         {
-          "number": "20",
+          "number": 20,
           "name": "Ravanelli"
         },
         {
-          "number": "23",
+          "number": 23,
           "name": "Guedes"
         },
         {
-          "number": "25",
+          "number": 25,
           "name": "Rafael"
         },
         {
-          "number": "26",
+          "number": 26,
           "name": "Anderson Leite"
         },
         {
-          "number": "32",
+          "number": 32,
           "name": "Lima"
         },
         {
-          "number": "85",
+          "number": 85,
           "name": "Tharlis"
+        },
+        {
+          "number": 97,
+          "name": "Léo Gomes"
         }
       ],
       "attacks": [
         {
-          "number": "-",
+          "number": 0,
+          "name": "Paulinho"
+        },
+        {
+          "number": 0,
           "name": "Thiago Ribeiro"
         },
         {
-          "number": "7",
+          "number": 7,
           "name": "Bruno Silva"
         },
         {
-          "number": "9",
+          "number": 9,
           "name": "Anselmo Ramón"
         },
         {
-          "number": "11",
+          "number": 11,
           "name": "Fernandinho"
         },
         {
-          "number": "17",
+          "number": 17,
           "name": "Mike"
         },
         {
-          "number": "38",
+          "number": 38,
           "name": "Fabinho"
         },
         {
-          "number": "45",
+          "number": 45,
           "name": "Lorhan"
         },
         {
-          "number": "50",
+          "number": 50,
           "name": "Geuvânio "
         },
         {
-          "number": "77",
+          "number": 77,
           "name": "Pedro Perotti"
         },
         {
-          "number": "94",
-          "name": "Paulinho Moccelin"
-        },
-        {
-          "number": "96",
+          "number": 96,
           "name": "Kaio Nunes"
         },
         {
-          "number": "99",
+          "number": 99,
           "name": "Ruan"
         },
+        null,
         null
       ]
     }
@@ -1457,174 +1542,179 @@
     "id": 2234,
     "name": "Sport Club Corinthians Paulista",
     "shortName": "Corinthians",
+    "colors": "#dcdcdc,#000000",
     "staff": {
       "goalkeepers": [
         {
-          "number": "-",
+          "number": 0,
           "name": "Filipe"
         },
         {
-          "number": "1",
+          "number": 1,
           "name": "Caique França"
         },
         {
-          "number": "12",
+          "number": 12,
           "name": "Cássio"
         },
         {
-          "number": "32",
+          "number": 32,
           "name": "Matheus Donelli"
         },
         {
-          "number": "40",
+          "number": 40,
           "name": "Guilherme"
         }
       ],
       "defenders": [
         {
-          "number": "3",
+          "number": 3,
           "name": "Jemerson"
         },
         {
-          "number": "4",
+          "number": 4,
           "name": "Gil"
         },
         {
-          "number": "6",
+          "number": 6,
           "name": "Lucas Piton"
         },
         {
-          "number": "13",
+          "number": 13,
           "name": "Léo Santos"
         },
         {
-          "number": "14",
+          "number": 14,
           "name": "Bruno Méndez"
         },
         {
-          "number": "15",
+          "number": 15,
           "name": "Guilherme Biro"
         },
         {
-          "number": "23",
+          "number": 23,
           "name": "Fágner"
         },
         {
-          "number": "26",
+          "number": 26,
           "name": "Fábio Santos"
         },
         {
-          "number": "33",
+          "number": 33,
           "name": "João Victor"
         },
         {
-          "number": "34",
+          "number": 34,
           "name": "Raul Gustavo"
         },
         {
-          "number": "35",
+          "number": 35,
           "name": "Danilo Avelar"
         },
         {
-          "number": "41",
+          "number": 41,
           "name": "Alan"
         }
       ],
       "midfields": [
         {
-          "number": "5",
+          "number": 5,
           "name": "Gabriel"
         },
         {
-          "number": "8",
+          "number": 8,
           "name": "Ramiro"
         },
         {
-          "number": "11",
+          "number": 11,
           "name": "Rómulo Otero"
         },
         {
-          "number": "16",
+          "number": 16,
           "name": "Matheus Araújo"
         },
         {
-          "number": "20",
+          "number": 20,
           "name": "Camacho"
         },
         {
-          "number": "21",
+          "number": 21,
           "name": "Ángelo Araos"
         },
         {
-          "number": "22",
+          "number": 22,
           "name": "Mateus Vital"
         },
         {
-          "number": "24",
+          "number": 24,
           "name": "Víctor Cantillo "
         },
         {
-          "number": "27",
+          "number": 27,
           "name": "Antony"
         },
         {
-          "number": "28",
+          "number": 28,
           "name": "Adson"
         },
         {
-          "number": "29",
+          "number": 29,
           "name": "Roni"
         },
         {
-          "number": "30",
-          "name": "Rodrigo Varanda"
-        },
-        {
-          "number": "31",
+          "number": 31,
           "name": "Gustavo Mantuan "
         },
         {
-          "number": "36",
+          "number": 36,
           "name": "Ruan Oliveira"
         },
         {
-          "number": "38",
+          "number": 38,
           "name": "Gabriel Pereira"
         },
         {
-          "number": "39",
+          "number": 39,
           "name": "Xavier "
         },
         {
-          "number": "43",
+          "number": 43,
           "name": "Vitinho"
+        },
+        {
+          "number": 44,
+          "name": "Luis Mandaca"
         },
         null
       ],
       "attacks": [
         {
-          "number": "7",
+          "number": 7,
           "name": "Luan"
         },
         {
-          "number": "17",
+          "number": 17,
           "name": "Cauê"
         },
         {
-          "number": "18",
+          "number": 18,
           "name": "Léo Natel"
         },
         {
-          "number": "19",
+          "number": 19,
           "name": "Gustavo Silva"
         },
         {
-          "number": "77",
-          "name": "Jô"
+          "number": 25,
+          "name": "Felipe Augusto"
         },
         {
-          "number": "25",
-          "name": "Felipe Augusto"
+          "number": 30,
+          "name": "Rodrigo Varanda"
+        },
+        {
+          "number": 77,
+          "name": "Jô"
         }
       ]
     }
@@ -1633,143 +1723,164 @@
     "id": 3220,
     "name": "Cuiabá Esporte Clube",
     "shortName": "Cuiabá",
+    "colors": "#00773f,#f0f0f0",
     "staff": {
       "goalkeepers": [
         {
-          "number": "-",
-          "name": "João Carlos"
+          "number": 0,
+          "name": "Fernando Caixeta"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Walter"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Rafael Bretas"
         },
         {
-          "number": "-",
-          "name": "Fernando"
+          "number": 0,
+          "name": "João Carlos"
         }
       ],
       "defenders": [
         {
-          "number": "-",
-          "name": "Vitor Hugo"
-        },
-        {
-          "number": "-",
-          "name": "Alexandre Melo"
-        },
-        {
-          "number": "-",
-          "name": "Athirson"
-        },
-        {
-          "number": "-",
-          "name": "Uendel "
-        },
-        {
-          "number": "-",
-          "name": "Wálber"
-        },
-        {
-          "number": "-",
-          "name": "Lucas Ramon"
-        },
-        {
-          "number": "-",
-          "name": "Anderson Conceição"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Marllon"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Paulão"
+        },
+        {
+          "number": 0,
+          "name": "João Lucas"
+        },
+        {
+          "number": 0,
+          "name": "Anderson Conceição"
+        },
+        {
+          "number": 0,
+          "name": "Vitor Hugo"
+        },
+        {
+          "number": 0,
+          "name": "Lucas Hernández"
+        },
+        {
+          "number": 0,
+          "name": "Caio César"
+        },
+        {
+          "number": 0,
+          "name": "Alexandre Melo"
+        },
+        {
+          "number": 0,
+          "name": "Uendel "
+        },
+        {
+          "number": 0,
+          "name": "Joaquim"
+        },
+        {
+          "number": 0,
+          "name": "Athirson"
+        },
+        {
+          "number": 0,
+          "name": "Walber"
+        },
+        {
+          "number": 0,
+          "name": "Lucas Ramon"
         }
       ],
       "midfields": [
         {
-          "number": "-",
-          "name": "Gabriel Pierini"
+          "number": 0,
+          "name": "Rafael Gava"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Uillian Correia"
         },
         {
-          "number": "-",
-          "name": "Marcos"
-        },
-        {
-          "number": "-",
-          "name": "Pepê"
-        },
-        {
-          "number": "-",
-          "name": "Camilo"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Auremir"
         },
         {
-          "number": "-",
-          "name": "Rafael Gava"
+          "number": 0,
+          "name": "Marcos"
+        },
+        {
+          "number": 0,
+          "name": "Camilo"
+        },
+        {
+          "number": 0,
+          "name": "Eder Gabriel"
+        },
+        {
+          "number": 0,
+          "name": "Pepê"
+        },
+        {
+          "number": 0,
+          "name": "Gabriel Pierini"
         },
         null,
         null
       ],
       "attacks": [
         {
-          "number": "-",
-          "name": "Rikelme"
+          "number": 0,
+          "name": "Clayson "
         },
         {
-          "number": "-",
-          "name": "Josiel"
-        },
-        {
-          "number": "-",
-          "name": "Osman"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Élton"
         },
         {
-          "number": "-",
-          "name": "Raul"
-        },
-        {
-          "number": "-",
-          "name": "Guilherme Pato"
-        },
-        {
-          "number": "-",
-          "name": "Victor Kawã"
-        },
-        {
-          "number": "-",
-          "name": "Jonathan Cafú"
-        },
-        {
-          "number": "-",
-          "name": "Alan Mendez"
-        },
-        {
-          "number": "-",
-          "name": "Caio Mota"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Pop"
         },
         {
-          "number": "-",
-          "name": "Clayson "
+          "number": 0,
+          "name": "Guilherme Pato"
+        },
+        {
+          "number": 0,
+          "name": "Alan Mendez"
+        },
+        {
+          "number": 0,
+          "name": "Rikelme"
+        },
+        {
+          "number": 0,
+          "name": "Jonathan Cafú"
+        },
+        {
+          "number": 0,
+          "name": "Osman"
+        },
+        {
+          "number": 0,
+          "name": "Raul"
+        },
+        {
+          "number": 0,
+          "name": "Victor Kawã"
+        },
+        {
+          "number": 0,
+          "name": "Josiel"
+        },
+        {
+          "number": 0,
+          "name": "Caio Mota"
         }
       ]
     }
@@ -1778,207 +1889,209 @@
     "id": 2240,
     "name": "Clube de Regatas do Flamengo",
     "shortName": "Flamengo",
+    "colors": "#010103,#c22a1e,#ffffff",
     "staff": {
       "goalkeepers": [
         {
-          "number": "1",
+          "number": 1,
           "name": "Diego Alves"
         },
         {
-          "number": "22",
+          "number": 22,
           "name": "Gabriel Batista"
         },
         {
-          "number": "45",
+          "number": 45,
           "name": "Hugo Souza "
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Bruno"
         },
         {
-          "number": "50",
+          "number": 50,
           "name": "João Fernando"
         },
         {
-          "number": "51",
+          "number": 51,
           "name": "Matheus Cunha"
         }
       ],
       "defenders": [
         {
-          "number": "2",
+          "number": 2,
           "name": "Gustavo Henrique"
         },
         {
-          "number": "3",
+          "number": 3,
           "name": "Rodrigo Caio"
         },
         {
-          "number": "4",
+          "number": 4,
           "name": "Léo Pereira"
         },
         {
-          "number": "6",
+          "number": 6,
           "name": "Renê"
         },
         {
-          "number": "13",
-          "name": "João Lucas"
-        },
-        {
-          "number": "16",
+          "number": 16,
           "name": "Filipe Luís"
         },
         {
-          "number": "30",
+          "number": 30,
           "name": "Bruno Viana"
         },
         {
-          "number": "34",
+          "number": 34,
           "name": "Matheuzinho"
         },
         {
-          "number": "44",
+          "number": 44,
           "name": "Mauricio Isla"
         },
         {
-          "number": "-",
-          "name": "Luis Gustavo "
-        },
-        {
-          "number": "-",
-          "name": "Ítalo"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Milani"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Luan Sales"
         },
         {
-          "number": "36",
+          "number": 0,
+          "name": "Luis Gustavo "
+        },
+        {
+          "number": 36,
           "name": "Ramon"
         },
         {
-          "number": "41",
+          "number": 41,
           "name": "Noga"
         },
         {
-          "number": "55",
+          "number": 53,
+          "name": "Ítalo"
+        },
+        {
+          "number": 55,
           "name": "Otávio"
         },
+        null,
         null
       ],
       "midfields": [
         {
-          "number": "5",
+          "number": 5,
           "name": "Willian Arão"
         },
         {
-          "number": "7",
+          "number": 7,
           "name": "Éverton Ribeiro"
         },
         {
-          "number": "8",
+          "number": 8,
           "name": "Gerson"
         },
         {
-          "number": "10",
+          "number": 10,
           "name": "Diego"
         },
         {
-          "number": "14",
+          "number": 14,
           "name": "De Arrascaeta"
         },
         {
-          "number": "17",
+          "number": 17,
           "name": "Hugo Moura"
         },
         {
-          "number": "33",
+          "number": 33,
           "name": "Thiago Maia"
         },
         {
-          "number": "35",
+          "number": 35,
           "name": "João Gomes"
         },
         {
-          "number": "54",
+          "number": 54,
           "name": "Richard"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "Matheus França"
+        },
+        {
+          "number": 0,
           "name": "Daniel Cabral "
         },
         {
-          "number": "-",
-          "name": "Lucas André"
-        },
-        {
-          "number": "18",
+          "number": 18,
           "name": "Peralta"
         },
         {
-          "number": "56",
+          "number": 31,
+          "name": "Max"
+        },
+        {
+          "number": 56,
           "name": "Yuri"
         },
         {
-          "number": "57",
-          "name": "Max"
+          "number": 57,
+          "name": "Lucas André"
         },
         null
       ],
       "attacks": [
         {
-          "number": "9",
+          "number": 9,
           "name": "Gabriel Barbosa"
         },
         {
-          "number": "11",
+          "number": 11,
           "name": "Vitinho"
         },
         {
-          "number": "19",
+          "number": 19,
           "name": "Michael"
         },
         {
-          "number": "21",
+          "number": 21,
           "name": "Pedro"
         },
         {
-          "number": "27",
+          "number": 27,
           "name": "Bruno Henrique"
         },
         {
-          "number": "43",
+          "number": 43,
           "name": "Rodrigo Muniz"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Weverton"
         },
         {
-          "number": "-",
-          "name": "Gabriel Barros"
-        },
-        {
-          "number": "20",
+          "number": 20,
           "name": "Lázaro"
         },
         {
-          "number": "47",
+          "number": 47,
           "name": "Werton"
         },
         {
-          "number": "58",
+          "number": 58,
           "name": "Mateus Lima"
         },
         {
-          "number": "59",
+          "number": 59,
           "name": "Thiago Fernandes"
+        },
+        {
+          "number": 60,
+          "name": "Gabriel Barros"
         }
       ]
     }
@@ -1987,267 +2100,247 @@
     "id": 2241,
     "name": "Fluminense Football Club",
     "shortName": "Fluminense",
+    "colors": "#002f08,#84001c,#fefefe",
     "staff": {
       "goalkeepers": [
         {
-          "number": "-",
+          "number": 0,
           "name": "Gustavo Ramalho "
         },
         {
-          "number": "1",
+          "number": 1,
           "name": "Marcos Felipe"
         },
         {
-          "number": "12",
+          "number": 12,
           "name": "João Lopes"
         },
         {
-          "number": "22",
+          "number": 22,
           "name": "Pedro Rangel"
         },
         {
-          "number": "27",
+          "number": 27,
           "name": "Muriel Becker"
         }
       ],
       "defenders": [
         {
-          "number": "-",
+          "number": 0,
           "name": "Jefte"
         },
         {
-          "number": "-",
-          "name": "David Braz"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Matheus Mascarenhas"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Luan Freitas"
         },
         {
-          "number": "-",
-          "name": "Davi"
-        },
-        {
-          "number": "-",
-          "name": "Felipe Andrade"
-        },
-        {
-          "number": "-",
-          "name": "Marcos Pedro"
-        },
-        {
-          "number": "2",
+          "number": 2,
           "name": "Samuel Xavier"
         },
         {
-          "number": "3",
+          "number": 3,
           "name": "Matheus Ferraz"
         },
         {
-          "number": "4",
+          "number": 4,
           "name": "Luccas Claro"
         },
         {
-          "number": "6",
+          "number": 6,
           "name": "Egídio"
         },
         {
-          "number": "13",
-          "name": "Frazan"
-        },
-        {
-          "number": "14",
+          "number": 14,
           "name": "Danilo Barcelos"
         },
         {
-          "number": "21",
+          "number": 21,
           "name": "Igor Julião "
         },
         {
-          "number": "26",
-          "name": "Manoel"
-        },
-        {
-          "number": "26",
+          "number": 26,
           "name": "Rai"
         },
         {
-          "number": "31",
+          "number": 26,
+          "name": "Manoel"
+        },
+        {
+          "number": 31,
           "name": "Calegari"
         },
         {
-          "number": "32",
+          "number": 32,
           "name": "Dani Bolt"
         },
         {
-          "number": "33",
+          "number": 33,
           "name": "Nino"
         },
         {
-          "number": "42",
+          "number": 42,
           "name": "Rafael Ribeiro"
         },
         {
-          "number": "44",
+          "number": 44,
           "name": "Higor"
         },
         {
-          "number": "50",
+          "number": 44,
+          "name": "David Braz"
+        },
+        {
+          "number": 50,
           "name": "Reginaldo"
-        }
+        },
+        {
+          "number": 0,
+          "name": "Marcos Pedro"
+        },
+        {
+          "number": 0,
+          "name": "Felipe Andrade"
+        },
+        {
+          "number": 0,
+          "name": "Davi"
+        },
+        null
       ],
       "midfields": [
         {
-          "number": "-",
-          "name": "Arthur"
-        },
-        {
-          "number": "-",
-          "name": "Wallace"
-        },
-        {
-          "number": "-",
-          "name": "Edinho"
-        },
-        {
-          "number": "-",
-          "name": "Metinho"
-        },
-        {
-          "number": "-",
-          "name": "Wiris "
-        },
-        {
-          "number": "-",
-          "name": "Miguel"
-        },
-        {
-          "number": "-",
-          "name": "Nascimento"
-        },
-        {
-          "number": "-",
-          "name": "Gustavo Apis"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Christian"
         },
         {
-          "number": "5",
+          "number": 0,
+          "name": "Wallace"
+        },
+        {
+          "number": 0,
+          "name": "Metinho"
+        },
+        {
+          "number": 0,
+          "name": "Wiris "
+        },
+        {
+          "number": 0,
+          "name": "Nascimento"
+        },
+        {
+          "number": 0,
+          "name": "Gustavo Apis"
+        },
+        {
+          "number": 5,
           "name": "Yuri"
         },
         {
-          "number": "8",
+          "number": 8,
           "name": "Wellington"
         },
         {
-          "number": "10",
+          "number": 10,
           "name": "PH Ganso"
         },
         {
-          "number": "11",
+          "number": 11,
           "name": "Juan Cazares"
         },
         {
-          "number": "20",
+          "number": 20,
           "name": "Yago Felipe"
         },
         {
-          "number": "25",
+          "number": 25,
           "name": "Hudson"
         },
         {
-          "number": "35",
+          "number": 30,
+          "name": "Miguel"
+        },
+        {
+          "number": 35,
           "name": "André"
         },
         {
-          "number": "36",
-          "name": "Caio Vinícius "
-        },
-        {
-          "number": "38",
+          "number": 38,
           "name": "Martinelli"
         },
         {
-          "number": "39",
+          "number": 39,
           "name": "Gabriel Teixeira"
         },
         {
-          "number": "77",
+          "number": 77,
           "name": "Nenê"
         },
+        {
+          "number": 0,
+          "name": "Arthur"
+        },
+        null,
         null
       ],
       "attacks": [
         {
-          "number": "-",
-          "name": "Gabryel Martins"
-        },
-        {
-          "number": "-",
-          "name": "Cauã Santos"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Marcos Paulo"
         },
         {
-          "number": "-",
-          "name": "Raúl Bobadilla"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Jefferson"
         },
         {
-          "number": "-",
-          "name": "Abel Hernández"
-        },
-        {
-          "number": "7",
+          "number": 7,
           "name": "Lucca"
         },
         {
-          "number": "9",
+          "number": 9,
           "name": "Fred"
         },
         {
-          "number": "16",
-          "name": "Fernando Pacheco "
-        },
-        {
-          "number": "18",
+          "number": 18,
           "name": "Matheus Martins"
         },
         {
-          "number": "19",
-          "name": "João Neto"
+          "number": 19,
+          "name": "Raúl Bobadilla"
         },
         {
-          "number": "23",
+          "number": 23,
           "name": "John Kennedy"
         },
         {
-          "number": "29",
+          "number": 29,
           "name": "Alexandre Jesus "
         },
         {
-          "number": "34",
+          "number": 32,
+          "name": "Abel Hernández"
+        },
+        {
+          "number": 34,
           "name": "Luiz Henrique"
         },
         {
-          "number": "37",
+          "number": 37,
           "name": "Kayky Silva"
         },
         {
-          "number": "70",
+          "number": 48,
+          "name": "João Neto"
+        },
+        {
+          "number": 70,
           "name": "Caio Paulista"
         },
+        null,
         null
       ]
     }
@@ -2256,126 +2349,131 @@
     "id": 2239,
     "name": "Fortaleza Esporte Clube",
     "shortName": "Fortaleza",
+    "colors": "#d12f14,#2861a6,#fefefe",
     "staff": {
       "goalkeepers": [
         {
-          "number": "1",
+          "number": 1,
           "name": "Marcelo Boeck"
         },
         {
-          "number": "12",
+          "number": 12,
           "name": "Felipe Alves"
         },
         {
-          "number": "22",
-          "name": "Kennedy"
+          "number": 23,
+          "name": "Max Walef"
         },
         {
-          "number": "23",
-          "name": "Max Walef"
+          "number": 99,
+          "name": "Kennedy"
         }
       ],
       "defenders": [
         {
-          "number": "2",
+          "number": 2,
           "name": "Tinga"
         },
         {
-          "number": "3",
+          "number": 3,
           "name": "Juan Quintero"
         },
         {
-          "number": "4",
+          "number": 4,
           "name": "Jackson"
         },
         {
-          "number": "5",
+          "number": 5,
           "name": "Marcelo Benevenuto"
         },
         {
-          "number": "6",
+          "number": 6,
           "name": "Carlinhos"
         },
         {
-          "number": "15",
+          "number": 15,
           "name": "Felipe"
         },
         {
-          "number": "22",
+          "number": 22,
           "name": "Yago Pikachu"
         },
         {
-          "number": "25",
-          "name": "Alix"
+          "number": 25,
+          "name": "Alix Vinicius"
         },
         {
-          "number": "29",
+          "number": 29,
           "name": "Daniel Guedes"
         },
         {
-          "number": "30",
+          "number": 30,
           "name": "Bruno Melo"
         },
         {
-          "number": "33",
+          "number": 33,
           "name": "Wanderson"
         },
         {
-          "number": "38",
+          "number": 38,
           "name": "João Paulo"
         },
         {
-          "number": "40",
+          "number": 40,
           "name": "Vitor Ricardo"
+        },
+        {
+          "number": 44,
+          "name": "Titi"
         }
       ],
       "midfields": [
         {
-          "number": "-",
-          "name": "Wellington Nem"
-        },
-        {
-          "number": "8",
+          "number": 8,
           "name": "Luiz Henrique"
         },
         {
-          "number": "10",
+          "number": 10,
           "name": "Lucas Crispim"
         },
         {
-          "number": "13",
+          "number": 13,
           "name": "Éderson"
         },
         {
-          "number": "14",
+          "number": 14,
           "name": "Ronald"
         },
         {
-          "number": "16",
+          "number": 16,
           "name": "Matheus Jussa"
         },
         {
-          "number": "19",
+          "number": 18,
+          "name": "Wellington Nem"
+        },
+        {
+          "number": 19,
           "name": "Isaque"
         },
         {
-          "number": "26",
+          "number": 26,
           "name": "Gustavo Blanco"
         },
         {
-          "number": "32",
+          "number": 32,
           "name": "Mariano Vázquez"
         },
         {
-          "number": "96",
+          "number": 96,
           "name": "Matheus Vargas"
         },
         {
-          "number": "97",
+          "number": 97,
           "name": "Pablo"
         },
         {
-          "number": "99",
+          "number": 99,
           "name": "Lucas Alisson "
         },
         null,
@@ -2383,37 +2481,34 @@
       ],
       "attacks": [
         {
-          "number": "7",
+          "number": 7,
           "name": "Robson"
         },
         {
-          "number": "9",
+          "number": 9,
           "name": "Wellington Paulista "
         },
         {
-          "number": "11",
+          "number": 11,
           "name": "Osvaldo"
         },
         {
-          "number": "17",
+          "number": 17,
           "name": "David"
         },
         {
-          "number": "20",
+          "number": 20,
           "name": "Romarinho"
         },
         {
-          "number": "21",
+          "number": 21,
           "name": "Gustavo Coutinho"
         },
         {
-          "number": "77",
+          "number": 77,
           "name": "Igor Torres"
         },
-        {
-          "number": "93",
-          "name": "Tiago Orobó"
-        }
+        null
       ]
     }
   },
@@ -2421,85 +2516,90 @@
     "id": 2243,
     "name": "Grêmio Foot-Ball Porto Alegrense",
     "shortName": "Grêmio",
+    "colors": "#000000,#005ca6,#fefefe",
     "staff": {
       "goalkeepers": [
         {
-          "number": "1",
+          "number": 1,
           "name": "Paulo Victor"
         },
         {
-          "number": "24",
+          "number": 24,
           "name": "Brenno"
         },
         {
-          "number": "31",
+          "number": 31,
           "name": "Adriel"
         },
         {
-          "number": "51",
+          "number": 51,
           "name": "Gabriel Chapecó"
         },
         null
       ],
       "defenders": [
         {
-          "number": "2",
+          "number": 0,
+          "name": "Matheus Nunes"
+        },
+        {
+          "number": 2,
           "name": "Victor Ferraz"
         },
         {
-          "number": "3",
+          "number": 3,
           "name": "Pedro Geromel"
         },
         {
-          "number": "4",
+          "number": 4,
           "name": "Wálter Kannemann"
         },
         {
-          "number": "6",
+          "number": 6,
           "name": "Léo Gomes"
         },
         {
-          "number": "12",
+          "number": 12,
           "name": "Bruno Cortez"
         },
         {
-          "number": "13",
+          "number": 13,
           "name": "Rafinha"
         },
         {
-          "number": "26",
+          "number": 26,
           "name": "Rodrigues"
         },
         {
-          "number": "28",
+          "number": 28,
           "name": "Paulo Miranda"
         },
         {
-          "number": "30",
+          "number": 30,
           "name": "Vitinho "
         },
         {
-          "number": "32",
+          "number": 32,
           "name": "Diogo Barbosa"
         },
         {
-          "number": "35",
+          "number": 35,
           "name": "Vanderson "
         },
         {
-          "number": "36",
+          "number": 36,
           "name": "Guilherme Guedes"
         },
         {
-          "number": "40",
+          "number": 40,
           "name": "Emanuel "
         },
         {
-          "number": "44",
+          "number": 44,
           "name": "Ruan"
         },
         {
-          "number": "48",
+          "number": 48,
           "name": "Heitor"
         },
         null,
@@ -2507,71 +2607,71 @@
       ],
       "midfields": [
         {
-          "number": "-",
-          "name": "Michel"
-        },
-        {
-          "number": "-",
-          "name": "Patrick"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Caíque"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "Patrick"
+        },
+        {
+          "number": 0,
           "name": "Rildo"
         },
         {
-          "number": "5",
+          "number": 0,
+          "name": "Michel"
+        },
+        {
+          "number": 5,
           "name": "Thiago Santos"
         },
         {
-          "number": "7",
+          "number": 7,
           "name": "Matheus Henrique"
         },
         {
-          "number": "8",
+          "number": 8,
           "name": "Maicon"
         },
         {
-          "number": "10",
+          "number": 10,
           "name": "Jean Pyerre"
         },
         {
-          "number": "15",
+          "number": 15,
           "name": "Darlan Mendes"
         },
         {
-          "number": "16",
+          "number": 16,
           "name": "Lucas Silva"
         },
         {
-          "number": "21",
+          "number": 21,
           "name": "César Pinares"
         },
         {
-          "number": "41",
+          "number": 41,
           "name": "Pedro Lucas "
         },
         {
-          "number": "42",
+          "number": 42,
           "name": "Fernando Henrique"
         },
         {
-          "number": "43",
+          "number": 43,
           "name": "Jhonata Varela"
         },
         {
-          "number": "49",
+          "number": 49,
           "name": "Sarará"
         },
         {
-          "number": "50",
+          "number": 50,
           "name": "Victor Bobsin"
         },
         {
-          "number": "52",
+          "number": 52,
           "name": "Vini Paulista"
         },
         null,
@@ -2580,65 +2680,66 @@
       ],
       "attacks": [
         {
-          "number": "11",
+          "number": 0,
+          "name": "Jhonata Robert"
+        },
+        {
+          "number": 11,
           "name": "Ferreira"
         },
         {
-          "number": "17",
+          "number": 17,
           "name": "Gui Azevedo"
         },
         {
-          "number": "18",
+          "number": 18,
           "name": "Léo Chú"
         },
         {
-          "number": "19",
+          "number": 19,
           "name": "Diego Churín"
         },
         {
-          "number": "22",
+          "number": 22,
           "name": "Everton"
         },
         {
-          "number": "23",
+          "number": 23,
           "name": "Alisson"
         },
         {
-          "number": "25",
+          "number": 25,
           "name": "Pepê"
         },
         {
-          "number": "29",
+          "number": 29,
           "name": "Diego Souza"
         },
         {
-          "number": "33",
+          "number": 33,
           "name": "Luiz Fernando"
         },
         {
-          "number": "38",
+          "number": 38,
           "name": "Léo Pereira"
         },
         {
-          "number": "39",
+          "number": 39,
           "name": "Bitelo"
         },
         {
-          "number": "45",
-          "name": "Fabrício"
-        },
-        {
-          "number": "46",
+          "number": 46,
           "name": "Thayllon"
         },
         {
-          "number": "49",
+          "number": 49,
           "name": "Ricardinho"
         },
         {
-          "number": "53",
+          "number": 53,
           "name": "Elias Manoel"
-        }
+        },
+        null
       ]
     }
   },
@@ -2646,225 +2747,226 @@
     "id": 2245,
     "name": "Sport Club Internacional",
     "shortName": "Internacional",
+    "colors": "#df000a,#f8f8f8",
     "staff": {
       "goalkeepers": [
         {
-          "number": "-",
-          "name": "Vitor Hugo"
-        },
-        {
-          "number": "-",
-          "name": "Anthoni "
-        },
-        {
-          "number": "1",
+          "number": 1,
           "name": "Danilo Fernandes"
         },
         {
-          "number": "12",
+          "number": 12,
           "name": "Marcelo Lomba"
         },
         {
-          "number": "42",
+          "number": 32,
+          "name": "Vitor Hugo"
+        },
+        {
+          "number": 42,
           "name": "Daniel"
+        },
+        {
+          "number": 0,
+          "name": "Anthoni "
         }
       ],
       "defenders": [
         {
-          "number": "-",
-          "name": "Renzo Saravia"
-        },
-        {
-          "number": "-",
-          "name": "Roberto"
-        },
-        {
-          "number": "-",
-          "name": "Pedro Henrique"
-        },
-        {
-          "number": "-",
-          "name": "Rodrigo Moledo"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Jonathan"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Lara"
         },
         {
-          "number": "-",
-          "name": "João Felix "
+          "number": 0,
+          "name": "Roberto"
         },
         {
-          "number": "-",
-          "name": "Tiago Barbosa"
-        },
-        {
-          "number": "2",
+          "number": 2,
           "name": "Heitor"
         },
         {
-          "number": "14",
+          "number": 4,
+          "name": "Rodrigo Moledo"
+        },
+        {
+          "number": 14,
           "name": "Lucas Ribeiro"
         },
         {
-          "number": "15",
+          "number": 15,
           "name": "Víctor Cuesta"
         },
         {
-          "number": "20",
+          "number": 20,
           "name": "Moisés"
         },
         {
-          "number": "22",
+          "number": 22,
           "name": "Rodinei"
         },
         {
-          "number": "35",
+          "number": 26,
+          "name": "Renzo Saravia"
+        },
+        {
+          "number": 35,
           "name": "Zé Gabriel"
         },
         {
-          "number": "36",
+          "number": 36,
           "name": "Léo Borges"
         },
         {
-          "number": "38",
+          "number": 38,
           "name": "Lucas Mazetti "
         },
         {
-          "number": "-",
-          "name": "João Pedro"
+          "number": 41,
+          "name": "Pedro Henrique"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Vinicius Tobias"
+        },
+        {
+          "number": 0,
+          "name": "Felix "
+        },
+        {
+          "number": 0,
+          "name": "Tiago Barbosa"
+        },
+        {
+          "number": 0,
+          "name": "João Pedro"
         }
       ],
       "midfields": [
         {
-          "number": "-",
-          "name": "Estevão"
-        },
-        {
-          "number": "-",
-          "name": "Matheus Dias"
-        },
-        {
-          "number": "-",
-          "name": "Andrés Amaya"
-        },
-        {
-          "number": "-",
-          "name": "Cleberson"
-        },
-        {
-          "number": "-",
-          "name": "Gabriel Boschilia"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Murilo"
         },
         {
-          "number": "-",
-          "name": "Pedro"
+          "number": 0,
+          "name": "Estevão"
         },
         {
-          "number": "-",
-          "name": "Lucas Vital"
+          "number": 0,
+          "name": "Matheus Dias"
         },
         {
-          "number": "8",
+          "number": 0,
+          "name": "Andrés Amaya"
+        },
+        {
+          "number": 8,
           "name": "Edenílson"
         },
         {
-          "number": "13",
+          "number": 13,
           "name": "Rodrigo Dourado"
         },
         {
-          "number": "18",
-          "name": "Igor Pereira"
-        },
-        {
-          "number": "19",
-          "name": "Rodrigo Lindoso"
-        },
-        {
-          "number": "27",
-          "name": "Maurício"
-        },
-        {
-          "number": "30",
-          "name": "Johnny"
-        },
-        {
-          "number": "33",
-          "name": "Nonato"
-        },
-        {
-          "number": "37",
-          "name": "Lucas Ramos"
-        },
-        {
-          "number": "45",
+          "number": 18,
           "name": "Praxedes"
         },
         {
-          "number": "88",
+          "number": 19,
+          "name": "Rodrigo Lindoso"
+        },
+        {
+          "number": 21,
+          "name": "Gabriel Boschilia"
+        },
+        {
+          "number": 27,
+          "name": "Maurício"
+        },
+        {
+          "number": 30,
+          "name": "Johnny"
+        },
+        {
+          "number": 33,
+          "name": "Nonato"
+        },
+        {
+          "number": 37,
+          "name": "Lucas Ramos"
+        },
+        {
+          "number": 88,
           "name": "Patrick Bezerra"
+        },
+        {
+          "number": 0,
+          "name": "Pedro"
+        },
+        {
+          "number": 0,
+          "name": "Lucas Vital"
+        },
+        {
+          "number": 0,
+          "name": "Igor Pereira"
+        },
+        {
+          "number": 0,
+          "name": "Cleberson"
         }
       ],
       "attacks": [
         {
-          "number": "-",
-          "name": "Nicolas"
-        },
-        {
-          "number": "-",
-          "name": "Vinicius Mello"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Vitor Braga"
         },
         {
-          "number": "9",
+          "number": 0,
+          "name": "Nicolas"
+        },
+        {
+          "number": 9,
           "name": "Paolo Guerrero"
         },
         {
-          "number": "10",
+          "number": 10,
           "name": "Taison"
         },
         {
-          "number": "11",
+          "number": 11,
           "name": "Yuri Alberto"
         },
         {
-          "number": "16",
+          "number": 16,
           "name": "Carlos Palacios"
         },
         {
-          "number": "17",
+          "number": 17,
           "name": "Thiago Galhardo"
         },
         {
-          "number": "23",
+          "number": 23,
           "name": "Marcos Guilherme"
         },
         {
-          "number": "31",
+          "number": 31,
           "name": "Peglow"
         },
         {
-          "number": "47",
+          "number": 47,
           "name": "Caio Vidal"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Cadorini"
+        },
+        {
+          "number": 0,
+          "name": "Vinicius Mello"
         },
         null,
         null
@@ -2875,144 +2977,144 @@
     "id": 2246,
     "name": "Esporte Clube Juventude",
     "shortName": "Juventude",
+    "colors": "#00933f,#dcddde",
     "staff": {
       "goalkeepers": [
         {
-          "number": "-",
-          "name": "Samuel Deuner "
+          "number": 0,
+          "name": "William"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Marcelo Carné"
         },
         {
-          "number": "-",
-          "name": "William"
+          "number": 0,
+          "name": "Samuel Deuner "
         }
       ],
       "defenders": [
         {
-          "number": "-",
-          "name": "Vitor Mendes"
+          "number": 0,
+          "name": "Victor Ramos"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Kelvin"
         },
         {
-          "number": "-",
-          "name": "Alyson"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Cleberson "
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Michel Macedo"
         },
         {
-          "number": "-",
-          "name": "Eltinho"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Paulo Henrique"
         },
         {
-          "number": "-",
-          "name": "Samuel Santos"
+          "number": 0,
+          "name": "Alyson"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "Vitor Mendes"
+        },
+        {
+          "number": 0,
           "name": "Dudu"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "Eltinho"
+        },
+        {
+          "number": 0,
           "name": "Rafael Forster"
         },
+        null,
         null,
         null
       ],
       "midfields": [
         {
-          "number": "-",
-          "name": "Wescley"
-        },
-        {
-          "number": "-",
-          "name": "Yago"
-        },
-        {
-          "number": "-",
-          "name": "Gustavo Bochecha"
-        },
-        {
-          "number": "-",
-          "name": "João Paulo "
-        },
-        {
-          "number": "-",
-          "name": "Kelvi"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Wagner"
         },
         {
-          "number": "-",
-          "name": "Matheus Jesus"
-        },
-        {
-          "number": "-",
-          "name": "Chico"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Elton"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "Gustavo Bochecha"
+        },
+        {
+          "number": 0,
+          "name": "João Paulo "
+        },
+        {
+          "number": 0,
+          "name": "Kelvi"
+        },
+        {
+          "number": 0,
+          "name": "Chico"
+        },
+        {
+          "number": 0,
+          "name": "Wescley"
+        },
+        {
+          "number": 0,
+          "name": "Matheus Jesus"
+        },
+        {
+          "number": 0,
+          "name": "Yago"
+        },
+        {
+          "number": 0,
           "name": "Guilherme Castilho"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Renan Bressan"
         }
       ],
       "attacks": [
         {
-          "number": "-",
-          "name": "Marcos Vinicios"
-        },
-        {
-          "number": "-",
-          "name": "Caprini"
-        },
-        {
-          "number": "-",
-          "name": "Matheus Peixoto"
-        },
-        {
-          "number": "-",
-          "name": "Rafael Grampola"
-        },
-        {
-          "number": "-",
-          "name": "Roberto"
-        },
-        {
-          "number": "-",
+          "number": 0,
           "name": "Capixaba"
         },
         {
-          "number": "-",
+          "number": 0,
+          "name": "Marcos Vinicios"
+        },
+        {
+          "number": 0,
+          "name": "Matheus Peixoto"
+        },
+        {
+          "number": 0,
+          "name": "Edwin Mosquera"
+        },
+        {
+          "number": 0,
+          "name": "Fernando Pacheco "
+        },
+        {
+          "number": 0,
           "name": "Matheuzinho"
         },
         {
-          "number": "-",
+          "number": 0,
           "name": "Nicolas"
         },
+        null,
+        null,
         null
       ]
     }
@@ -3021,193 +3123,202 @@
     "id": 2248,
     "name": "Sociedade Esportiva Palmeiras",
     "shortName": "Palmeiras",
+    "colors": "#006436,#ffffff",
     "staff": {
       "goalkeepers": [
         {
-          "number": "1",
+          "number": 1,
           "name": "Vinicius"
         },
         {
-          "number": "21",
+          "number": 21,
           "name": "Weverton"
         },
         {
-          "number": "42",
+          "number": 42,
           "name": "Jaílson"
         },
         {
-          "number": "51",
+          "number": 51,
           "name": "Mateus"
         }
       ],
       "defenders": [
         {
-          "number": "2",
+          "number": 2,
           "name": "Marcos Rocha"
         },
         {
-          "number": "3",
+          "number": 3,
           "name": "Renan"
         },
         {
-          "number": "4",
+          "number": 4,
           "name": "Benjamin Kuscevic"
         },
         {
-          "number": "6",
+          "number": 6,
           "name": "Lucas Esteves"
         },
         {
-          "number": "12",
+          "number": 12,
           "name": "Mayke"
         },
         {
-          "number": "13",
+          "number": 13,
           "name": "Luan"
         },
         {
-          "number": "15",
+          "number": 15,
           "name": "Gustavo Gómez"
         },
         {
-          "number": "17",
+          "number": 17,
           "name": "Matías Viña"
         },
         {
-          "number": "26",
+          "number": 26,
           "name": "Victor Luís"
         },
         {
-          "number": "32",
+          "number": 32,
           "name": "Garcia"
         },
         {
-          "number": "33",
+          "number": 33,
           "name": "Alan Empereur"
         },
         {
-          "number": "44",
+          "number": 44,
           "name": "Henri"
         },
         {
-          "number": "46",
+          "number": 46,
           "name": "Vanderlan"
         },
         {
-          "number": "66",
+          "number": 66,
           "name": "Michel"
         }
       ],
       "midfields": [
         {
-          "number": "5",
+          "number": 5,
           "name": "Patrick de Paula"
         },
         {
-          "number": "8",
+          "number": 8,
           "name": "Zé Rafael"
         },
         {
-          "number": "14",
+          "number": 14,
           "name": "Gustavo Scarpa"
         },
         {
-          "number": "18",
+          "number": 18,
           "name": "Danilo Barbosa"
         },
         {
-          "number": "20",
+          "number": 20,
           "name": "Lucas Lima"
         },
         {
-          "number": "23",
+          "number": 23,
           "name": "Raphael Veiga"
         },
         {
-          "number": "25",
+          "number": 25,
           "name": "Gabriel Menino"
         },
         {
-          "number": "28",
+          "number": 28,
           "name": "Danilo"
         },
         {
-          "number": "30",
+          "number": 30,
           "name": "Felipe Melo"
         },
         {
-          "number": "34",
+          "number": 34,
           "name": "Ramon Cirino"
         },
         {
-          "number": "35",
+          "number": 35,
           "name": "Fabinho"
         },
         {
-          "number": "40",
+          "number": 40,
           "name": "Alan"
         },
         {
-          "number": "56",
+          "number": 56,
           "name": "Vitinho"
         },
         {
-          "number": "65",
+          "number": 65,
           "name": "Pedro Bicalho"
         }
       ],
       "attacks": [
         {
-          "number": "7",
+          "number": 0,
+          "name": "Iván Angulo"
+        },
+        {
+          "number": 0,
+          "name": "Dudu"
+        },
+        {
+          "number": 7,
           "name": "Rony"
         },
         {
-          "number": "9",
+          "number": 9,
           "name": "Luan Silva"
         },
         {
-          "number": "10",
+          "number": 10,
           "name": "Luiz Adriano"
         },
         {
-          "number": "11",
+          "number": 11,
           "name": "Wesley"
         },
         {
-          "number": "19",
+          "number": 19,
           "name": "Breno Lopes"
         },
         {
-          "number": "27",
+          "number": 27,
           "name": "Gabriel Veron"
         },
         {
-          "number": "29",
+          "number": 29,
           "name": "Willian"
         },
         {
-          "number": "37",
+          "number": 37,
           "name": "Rafael Elias "
         },
         {
-          "number": "38",
+          "number": 38,
           "name": "Marcelinho"
         },
         {
-          "number": "41",
+          "number": 41,
           "name": "Giovani"
         },
         {
-          "number": "48",
+          "number": 48,
           "name": "Newton Williams"
         },
         {
-          "number": "49",
-          "name": "Gabriel Silva"
+          "number": 57,
+          "name": "Pedro Acácio"
         },
         {
-          "number": "57",
-          "name": "Pedro Acácio"
+          "number": 49,
+          "name": "Gabriel Silva"
         }
       ]
     }
@@ -3216,146 +3327,155 @@
     "id": 3156,
     "name": "Red Bull Bragantino",
     "shortName": "RB Bragantino",
+    "colors": "#ffffff,#000000",
     "staff": {
       "goalkeepers": [
         {
-          "number": "1",
+          "number": 1,
           "name": "Júlio César"
         },
         {
-          "number": "12",
+          "number": 12,
           "name": "Maycon Cleiton"
         },
         {
-          "number": "40",
+          "number": 40,
           "name": "Cleiton"
         }
       ],
       "defenders": [
         {
-          "number": "2",
+          "number": 2,
           "name": "Léo Realpe"
         },
         {
-          "number": "3",
+          "number": 3,
           "name": "Léo Ortiz"
         },
         {
-          "number": "4",
+          "number": 4,
           "name": "Ligger"
         },
         {
-          "number": "6",
+          "number": 6,
           "name": "Edimar"
         },
         {
-          "number": "13",
+          "number": 13,
           "name": "Aderlan"
         },
         {
-          "number": "14",
+          "number": 14,
           "name": "Fabrício Bruno"
         },
         {
-          "number": "17",
+          "number": 17,
           "name": "Weverton"
         },
         {
-          "number": "21",
+          "number": 21,
           "name": "Natan"
         },
         {
-          "number": "24",
+          "number": 24,
           "name": "Cesar Haydar"
         },
         {
-          "number": "26",
+          "number": 26,
           "name": "Weverson"
         },
         {
-          "number": "29",
+          "number": 29,
           "name": "Luan Cândido"
         },
         {
-          "number": "32",
+          "number": 32,
           "name": "Rafael"
         }
       ],
       "midfields": [
         {
-          "number": "5",
+          "number": 0,
+          "name": "Guilherme"
+        },
+        {
+          "number": 5,
           "name": "Jadsom"
         },
         {
-          "number": "8",
+          "number": 8,
           "name": "Lucas Evangelista"
         },
         {
-          "number": "10",
+          "number": 10,
           "name": "Claudinho "
         },
         {
-          "number": "16",
+          "number": 16,
           "name": "Eric Ramires"
         },
         {
-          "number": "23",
+          "number": 23,
           "name": "Raul"
         },
         {
-          "number": "25",
+          "number": 25,
           "name": "Ryller"
         },
         {
-          "number": "30",
+          "number": 30,
           "name": "Vitinho"
         },
         null
       ],
       "attacks": [
         {
-          "number": "7",
+          "number": 7,
           "name": "Artur"
         },
         {
-          "number": "9",
+          "number": 9,
           "name": "Alerrandro"
         },
         {
-          "number": "11",
+          "number": 11,
           "name": "Helinho"
         },
         {
-          "number": "15",
+          "number": 15,
           "name": "Ytalo"
         },
         {
-          "number": "18",
+          "number": 18,
           "name": "Chrigor"
         },
         {
-          "number": "20",
+          "number": 20,
           "name": "Bruno Tubarão"
         },
         {
-          "number": "22",
+          "number": 22,
           "name": "Leandrinho"
         },
         {
-          "number": "27",
+          "number": 27,
           "name": "Jan Hurtado"
         },
         {
-          "number": "28",
+          "number": 28,
           "name": "Tomás Cuello "
         },
         {
-          "number": "33",
+          "number": 33,
           "name": "Pedrinho"
         },
         {
-          "number": "34",
+          "number": 34,
           "name": "Luis Phelipe"
+        },
+        {
+          "number": 35,
+          "name": "Gabriel Novaes"
         }
       ]
     }
@@ -3364,68 +3484,69 @@
     "id": 2254,
     "name": "Santos Futebol Clube",
     "shortName": "Santos",
+    "colors": "#fefefe,#000000",
     "staff": {
       "goalkeepers": [
         {
-          "number": "1",
+          "number": 1,
           "name": "Vladimir"
         },
         {
-          "number": "31",
+          "number": 31,
           "name": "John"
         },
         {
-          "number": "33",
+          "number": 33,
           "name": "Paulo Mazoti"
         },
         {
-          "number": "34",
+          "number": 34,
           "name": "João Paulo "
         }
       ],
       "defenders": [
         {
-          "number": "2",
+          "number": 2,
           "name": "Luiz Felipe"
         },
         {
-          "number": "3",
+          "number": 3,
           "name": "Felipe Jonatan"
         },
         {
-          "number": "4",
+          "number": 4,
           "name": "Pará"
         },
         {
-          "number": "13",
+          "number": 13,
           "name": "Madson"
         },
         {
-          "number": "14",
+          "number": 14,
           "name": "Luan Peres"
         },
         {
-          "number": "26",
+          "number": 26,
           "name": "Robson"
         },
         {
-          "number": "28",
+          "number": 28,
           "name": "Kaiky"
         },
         {
-          "number": "33",
+          "number": 33,
           "name": "Sandro Martins"
         },
         {
-          "number": "35",
+          "number": 35,
           "name": "Wellington"
         },
         {
-          "number": "44",
+          "number": 44,
           "name": "Alex"
         },
         {
-          "number": "48",
+          "number": 48,
           "name": "Derick "
         },
         null,
@@ -3433,117 +3554,121 @@
       ],
       "midfields": [
         {
-          "number": "-",
-          "name": "Felipe"
-        },
-        {
-          "number": "-",
-          "name": "Victor Yan"
-        },
-        {
-          "number": "5",
+          "number": 5,
           "name": "Alison"
         },
         {
-          "number": "7",
+          "number": 7,
           "name": "Carlos Sánchez"
         },
         {
-          "number": "8",
+          "number": 8,
           "name": "Jobson "
         },
         {
-          "number": "15",
+          "number": 15,
           "name": "Mikael"
         },
         {
-          "number": "17",
+          "number": 17,
           "name": "Vinicius Balieiro"
         },
         {
-          "number": "18",
+          "number": 18,
           "name": "Guilherme Nunes"
         },
         {
-          "number": "20",
+          "number": 20,
           "name": "Gabriel Pirani"
         },
         {
-          "number": "21",
+          "number": 21,
           "name": "Lucas Barbosa"
         },
         {
-          "number": "24",
-          "name": "Kevin"
+          "number": 24,
+          "name": "Kevin Malthus"
         },
         {
-          "number": "32",
+          "number": 32,
           "name": "Jhonnathan"
         },
         {
-          "number": "37",
+          "number": 37,
           "name": "Lucas Lourenço"
         },
         {
-          "number": "38",
+          "number": 38,
           "name": "Sandry"
         },
         {
-          "number": "41",
+          "number": 40,
+          "name": "Anderson Ceará"
+        },
+        {
+          "number": 41,
           "name": "Jean Mota"
         },
         {
-          "number": "45",
+          "number": 42,
+          "name": "Felipe"
+        },
+        {
+          "number": 45,
           "name": "Ivonei"
+        },
+        {
+          "number": 47,
+          "name": "Victor Yan"
         }
       ],
       "attacks": [
         {
-          "number": "-",
+          "number": 0,
           "name": "Raniel"
         },
         {
-          "number": "9",
+          "number": 9,
           "name": "Kaio Jorge"
         },
         {
-          "number": "11",
+          "number": 11,
           "name": "Marinho"
         },
         {
-          "number": "16",
+          "number": 16,
           "name": "Jonathan Copete"
         },
         {
-          "number": "19",
+          "number": 19,
           "name": "Bruno Marques"
         },
         {
-          "number": "25",
+          "number": 25,
           "name": "Fernando"
         },
         {
-          "number": "27",
+          "number": 27,
           "name": "Ângelo"
         },
         {
-          "number": "29",
+          "number": 29,
           "name": "Allanzinho"
         },
         {
-          "number": "30",
+          "number": 30,
           "name": "Lucas Braga"
         },
         {
-          "number": "36",
+          "number": 36,
           "name": "Marcos Leonardo"
         },
         {
-          "number": "43",
+          "number": 43,
           "name": "Renyer"
         },
         {
-          "number": "49",
+          "number": 49,
           "name": "Lucas Venuto"
         },
         null,
@@ -3556,221 +3681,222 @@
     "id": 2256,
     "name": "São Paulo Futebol Clube",
     "shortName": "São Paulo",
+    "colors": "#fefefe,#000000,#e30000",
     "staff": {
       "goalkeepers": [
         {
-          "number": "1",
+          "number": 1,
           "name": "Tiago Volpi"
         },
         {
-          "number": "18",
+          "number": 18,
           "name": "Lucas Perri"
         },
         {
-          "number": "24",
+          "number": 24,
           "name": "Arthur Gazze"
         },
         {
-          "number": "33",
+          "number": 33,
           "name": "Young"
         },
         {
-          "number": "40",
+          "number": 40,
           "name": "Thiago Couto"
         }
       ],
       "defenders": [
         {
-          "number": "-",
-          "name": "Anilson"
-        },
-        {
-          "number": "-",
-          "name": "Luizão"
-        },
-        {
-          "number": "-",
-          "name": "Caio"
-        },
-        {
-          "number": "2",
+          "number": 2,
           "name": "Igor Vinícius"
         },
         {
-          "number": "3",
+          "number": 3,
           "name": "Bruno Alves"
         },
         {
-          "number": "4",
+          "number": 4,
           "name": "Diego Costa"
         },
         {
-          "number": "5",
+          "number": 5,
           "name": "Robert Arboleda"
         },
         {
-          "number": "6",
+          "number": 6,
           "name": "Reinaldo"
         },
         {
-          "number": "16",
+          "number": 16,
           "name": "Léo"
         },
         {
-          "number": "20",
+          "number": 20,
           "name": "Luis Orejuela"
         },
         {
-          "number": "22",
+          "number": 22,
           "name": "Miranda"
         },
         {
-          "number": "32",
+          "number": 32,
           "name": "Rodrigo Freitas"
         },
         {
-          "number": "34",
+          "number": 34,
           "name": "Welington"
         },
         {
-          "number": "36",
+          "number": 36,
           "name": "Patryck"
         },
         {
-          "number": "36",
+          "number": 36,
           "name": "Gabriel"
         },
         {
-          "number": "43",
+          "number": 41,
+          "name": "Luizão"
+        },
+        {
+          "number": 42,
+          "name": "Anilson"
+        },
+        {
+          "number": 43,
           "name": "Walce "
         },
         {
-          "number": "45",
+          "number": 45,
           "name": "Nathan"
+        },
+        {
+          "number": 50,
+          "name": "Caio"
         }
       ],
       "midfields": [
         {
-          "number": "-",
-          "name": "Gabriel Falcão"
+          "number": 0,
+          "name": "Pablo Maia"
         },
         {
-          "number": "-",
-          "name": "Palmberg"
+          "number": 8,
+          "name": "Martín Benítez"
         },
         {
-          "number": "-",
-          "name": "Everton Felipe"
-        },
-        {
-          "number": "-",
-          "name": "Pedrinho"
-        },
-        {
-          "number": "10",
+          "number": 10,
           "name": "Dani Alves"
         },
         {
-          "number": "12",
+          "number": 12,
           "name": "Vitor Bueno"
         },
         {
-          "number": "13",
+          "number": 13,
           "name": "Luan"
         },
         {
-          "number": "14",
+          "number": 14,
           "name": "Liziero"
         },
         {
-          "number": "15",
+          "number": 15,
           "name": "Hernanes"
         },
         {
-          "number": "17",
+          "number": 17,
           "name": "William"
         },
         {
-          "number": "19",
+          "number": 19,
           "name": "Shaylon"
         },
         {
-          "number": "21",
+          "number": 21,
           "name": "Gabriel Sara"
         },
         {
-          "number": "25",
+          "number": 25,
           "name": "Rodrigo Nestor"
         },
         {
-          "number": "26",
+          "number": 26,
           "name": "Igor Gomes"
         },
         {
-          "number": "35",
+          "number": 30,
+          "name": "Everton Felipe"
+        },
+        {
+          "number": 35,
           "name": "Lucas Beraldo"
         },
         {
-          "number": "37",
+          "number": 37,
           "name": "Talles Costa"
+        },
+        {
+          "number": 46,
+          "name": "Palmberg"
+        },
+        {
+          "number": 48,
+          "name": "Pedrinho"
+        },
+        {
+          "number": 49,
+          "name": "Gabriel Falcão"
         },
         null
       ],
       "attacks": [
         {
-          "number": "-",
-          "name": "Juan Santos"
-        },
-        {
-          "number": "-",
-          "name": "Gonzalo Carneiro"
-        },
-        {
-          "number": "-",
-          "name": "João Adriano"
-        },
-        {
-          "number": "-",
-          "name": "Caique"
-        },
-        {
-          "number": "7",
+          "number": 7,
           "name": "Joao Rojas"
         },
         {
-          "number": "8",
-          "name": "Martín Benítez"
-        },
-        {
-          "number": "9",
+          "number": 9,
           "name": "Pablo"
         },
         {
-          "number": "11",
+          "number": 11,
           "name": "Luciano"
         },
         {
-          "number": "23",
+          "number": 23,
           "name": "Éder Citadin"
         },
         {
-          "number": "27",
+          "number": 27,
           "name": "Antonio Galeano"
         },
         {
-          "number": "28",
+          "number": 28,
           "name": "Bruno Rodrigues"
         },
         {
-          "number": "38",
+          "number": 29,
+          "name": "João Adriano"
+        },
+        {
+          "number": 31,
+          "name": "Juan Santos"
+        },
+        {
+          "number": 38,
           "name": "Paulinho Bóia"
         },
         {
-          "number": "39",
+          "number": 39,
           "name": "Vitinho"
         },
         {
-          "number": "47",
+          "number": 44,
+          "name": "Caique"
+        },
+        {
+          "number": 47,
           "name": "Marquinhos"
         },
         null
@@ -3781,92 +3907,97 @@
     "id": 2257,
     "name": "Sport Club do Recife",
     "shortName": "Sport",
+    "colors": "#1e191a,#d5121a",
     "staff": {
       "goalkeepers": [
         {
-          "number": "-",
+          "number": 0,
           "name": "Denival"
         },
         {
-          "number": "1",
+          "number": 1,
           "name": "Mailson"
         },
         {
-          "number": "27",
+          "number": 27,
           "name": "Luan Polli"
         },
         {
-          "number": "41",
+          "number": 41,
           "name": "Túlio"
         },
         {
-          "number": "92",
+          "number": 92,
           "name": "Carlos Eduardo"
         }
       ],
       "defenders": [
         {
-          "number": "-",
+          "number": 0,
           "name": "Sabino"
         },
         {
-          "number": "3",
+          "number": 0,
+          "name": "Hayner"
+        },
+        {
+          "number": 3,
           "name": "Júnior Tavares"
         },
         {
-          "number": "6",
+          "number": 6,
           "name": "Iago Maidana"
         },
         {
-          "number": "12",
+          "number": 12,
           "name": "Patric"
         },
         {
-          "number": "13",
+          "number": 13,
           "name": "Renzo"
         },
         {
-          "number": "15",
+          "number": 15,
           "name": "Rafael Thyere"
         },
         {
-          "number": "26",
+          "number": 26,
           "name": "Matheus Miranda"
         },
         {
-          "number": "34",
+          "number": 34,
           "name": "Adryelson "
         },
         {
-          "number": "36",
+          "number": 36,
           "name": "Thalis"
         },
         {
-          "number": "42",
+          "number": 42,
           "name": "Elias"
         },
         {
-          "number": "44",
+          "number": 44,
           "name": "Chico"
         },
         {
-          "number": "52",
+          "number": 52,
           "name": "Victor Gabriel"
         },
         {
-          "number": "56",
+          "number": 56,
           "name": "Sander"
         },
         {
-          "number": "66",
+          "number": 66,
           "name": "Ewerthon"
         },
         {
-          "number": "80",
+          "number": 80,
           "name": "Rivaldo"
         },
         {
-          "number": "93",
+          "number": 93,
           "name": "Ryan"
         },
         null,
@@ -3874,152 +4005,157 @@
       ],
       "midfields": [
         {
-          "number": "5",
+          "number": 5,
           "name": "Ronaldo"
         },
         {
-          "number": "8",
+          "number": 8,
           "name": "Márcio Araújo"
         },
         {
-          "number": "14",
+          "number": 14,
           "name": "Zé Welison"
         },
         {
-          "number": "17",
+          "number": 17,
           "name": "Carlos Rentería"
         },
         {
-          "number": "18",
+          "number": 18,
           "name": "Betinho"
         },
         {
-          "number": "19",
+          "number": 19,
           "name": "Thiago Lopes"
         },
         {
-          "number": "20",
+          "number": 20,
           "name": "Ricardinho"
         },
         {
-          "number": "22",
+          "number": 22,
           "name": "Adryan"
         },
         {
-          "number": "28",
+          "number": 28,
           "name": "João Igor"
         },
         {
-          "number": "29",
+          "number": 29,
           "name": "Alysson"
         },
         {
-          "number": "30",
+          "number": 30,
           "name": "Thiago Neves"
         },
         {
-          "number": "32",
+          "number": 32,
           "name": "Deyvson"
         },
         {
-          "number": "35",
+          "number": 35,
           "name": "Pablo Pardal "
         },
         {
-          "number": "39",
+          "number": 39,
           "name": "Gustavo"
         },
         {
-          "number": "47",
+          "number": 47,
           "name": "Weverson"
         },
         {
-          "number": "50",
+          "number": 50,
           "name": "Ítalo"
         },
         {
-          "number": "62",
+          "number": 62,
           "name": "Alexandre"
         },
         {
-          "number": "63",
+          "number": 63,
           "name": "Edvélton"
         },
         {
-          "number": "64",
+          "number": 64,
           "name": "Arielton"
         },
         {
-          "number": "77",
+          "number": 77,
           "name": "Marcão"
         },
         {
-          "number": "91",
+          "number": 91,
           "name": "Pedro Victor"
         },
         null
       ],
       "attacks": [
         {
-          "number": "-",
+          "number": 0,
           "name": "Everaldo"
         },
         {
-          "number": "7",
+          "number": 0,
+          "name": "Paulinho Moccelin"
+        },
+        {
+          "number": 0,
+          "name": "André"
+        },
+        {
+          "number": 7,
           "name": "Neilton"
         },
         {
-          "number": "9",
-          "name": "Hernane Brocador"
-        },
-        {
-          "number": "9",
+          "number": 9,
           "name": "Santiago Tréllez"
         },
         {
-          "number": "10",
+          "number": 9,
+          "name": "Hernane Brocador"
+        },
+        {
+          "number": 10,
           "name": "Jonas Toró"
         },
         {
-          "number": "11",
+          "number": 11,
           "name": "Leandro Barcía"
         },
         {
-          "number": "16",
+          "number": 16,
           "name": "Mateus"
         },
         {
-          "number": "31",
+          "number": 31,
           "name": "Paulinho"
         },
         {
-          "number": "33",
+          "number": 33,
           "name": "Marquinhos"
         },
         {
-          "number": "49",
+          "number": 49,
           "name": "Igor"
         },
         {
-          "number": "53",
+          "number": 53,
           "name": "Rodrigo"
         },
         {
-          "number": "71",
+          "number": 71,
           "name": "Maxwell"
         },
         {
-          "number": "94",
-          "name": "Dalberto"
-        },
-        {
-          "number": "98",
+          "number": 98,
           "name": "João Vitor"
         },
         {
-          "number": "99",
+          "number": 99,
           "name": "Mikael"
         },
+        null,
         null,
         null
       ]

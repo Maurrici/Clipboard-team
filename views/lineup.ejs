@@ -1,47 +1,21 @@
-<!DOCTYPE html>
-<html lang="pt_br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Escale seu time</title>
+<%- include("./partials/header.ejs") %>
 
-    <!-- Styles Sessions -->
-    <link rel="stylesheet" href="./css/lineup.css">
-    <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
-</head>
-<body>
-    <main>
-        <div class="soccer-field free-move">
+<main>
+    <div class="soccer-field free-move">
 
-        </div>
-        <div class="soccer-players ordened-move">
-            <div id="player-9" class="player ordened-element element-movable ui-widget-content" style="order: 9;">
-                <input class="form-control" type="text" name="number" value="9">
-                <input class="form-control" type="text" name="name">
+    </div>
+    <div class="soccer-players ordened-move">
+        <% team.Players.forEach(item => { %>
+            <div id="<%= item.id %>" <%= "style=order:" + item.number + ";" %>  class="player ordened-element element-movable ui-widget-content">
+                <div class="player-shirt">
+                    <span class="number-shirt"><%= item.number %></span>
+                </div>
+                <div class="player-name">
+                    <span class="name-of-player"><%= item.name %></span>
+                </div>
             </div>
+        <% }) %>
+    </div>
+</main>
 
-            <div id="player-10" class="player ordened-element element-movable ui-widget-content">
-
-            </div>
-
-            <div id="player-7" class="player ordened-element element-movable ui-widget-content" style="order: 7;">
-                <input class="form-control" type="text" name="number" value="7">
-                <input class="form-control" type="text" name="name">
-            </div>
-
-            <div id="player-1" class="player ordened-element element-movable ui-widget-content" style="order: 1;">
-                <input class="form-control" type="text" name="number" value="1">
-                <input class="form-control" type="text" name="name">
-            </div>
-        </div>
-    </main>
-
-    <!-- Script Session -->
-    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
-    <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-    <script src="./js/lineup.js"></script>
-</body>
-</html>
+<%- include("./partials/footer.ejs") %>
